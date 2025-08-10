@@ -1,0 +1,341 @@
+ets Jul 29 2019 12:21:46
+
+rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:6276
+load:0x40078000,len:15748
+load:0x40080400,len:4
+ho 8 tail 4 room 4
+load:0x40080404,len:3860
+entry 0x4008063c
+[0;32mI (31) boot: ESP-IDF v5.4.1 2nd stage bootloader[0m
+[0;32mI (31) boot: compile time Aug  9 2025 19:51:56[0m
+[0;32mI (31) boot: Multicore bootloader[0m
+[0;32mI (32) boot: chip revision: v3.1[0m
+[0;32mI (35) boot.esp32: SPI Speed      : 40MHz[0m
+[0;32mI (39) boot.esp32: SPI Mode       : DIO[0m
+[0;32mI (43) boot.esp32: SPI Flash Size : 2MB[0m
+[0;32mI (46) boot: Enabling RNG early entropy source...[0m
+[0;32mI (51) boot: Partition Table:[0m
+[0;32mI (53) boot: ## Label            Usage          Type ST Offset   Length[0m
+[0;32mI (60) boot:  0 nvs              WiFi data        01 02 00009000 00006000[0m
+[0;32mI (66) boot:  1 phy_init         RF data          01 01 0000f000 00001000[0m
+[0;32mI (73) boot:  2 factory          factory app      00 00 00010000 00100000[0m
+[0;32mI (79) boot: End of partition table[0m
+[0;32mI (82) esp_image: segment 0: paddr=00010020 vaddr=3f400020 size=09fach ( 40876) map[0m
+[0;32mI (104) esp_image: segment 1: paddr=00019fd4 vaddr=3ff80000 size=0001ch (    28) load[0m
+[0;32mI (104) esp_image: segment 2: paddr=00019ff8 vaddr=3ffb0000 size=02314h (  8980) load[0m
+[0;32mI (111) esp_image: segment 3: paddr=0001c314 vaddr=40080000 size=03d04h ( 15620) load[0m
+[0;32mI (121) esp_image: segment 4: paddr=00020020 vaddr=400d0020 size=145c8h ( 83400) map[0m
+[0;32mI (151) esp_image: segment 5: paddr=000345f0 vaddr=40083d04 size=08f30h ( 36656) load[0m
+[0;32mI (172) boot: Loaded app from partition at offset 0x10000[0m
+[0;32mI (172) boot: Disabling RNG early entropy source...[0m
+[0;32mI (182) cpu_start: Multicore app[0m
+[0;32mI (191) cpu_start: Pro cpu start user code[0m
+[0;32mI (191) cpu_start: cpu freq: 160000000 Hz[0m
+[0;32mI (191) app_init: Application information:[0m
+[0;32mI (191) app_init: Project name:     vibration_sensor_sw420[0m
+[0;32mI (196) app_init: App version:      1[0m
+[0;32mI (200) app_init: Compile time:     Aug  9 2025 19:51:18[0m
+[0;32mI (205) app_init: ELF file SHA256:  66d677015...[0m
+[0;32mI (209) app_init: ESP-IDF:          v5.4.1[0m
+[0;32mI (213) efuse_init: Min chip rev:     v0.0[0m
+[0;32mI (217) efuse_init: Max chip rev:     v3.99 [0m
+[0;32mI (221) efuse_init: Chip rev:         v3.1[0m
+[0;32mI (225) heap_init: Initializing. RAM available for dynamic allocation:[0m
+[0;32mI (231) heap_init: At 3FFAE6E0 len 00001920 (6 KiB): DRAM[0m
+[0;32mI (236) heap_init: At 3FFB2BD0 len 0002D430 (181 KiB): DRAM[0m
+[0;32mI (241) heap_init: At 3FFE0440 len 00003AE0 (14 KiB): D/IRAM[0m
+[0;32mI (246) heap_init: At 3FFE4350 len 0001BCB0 (111 KiB): D/IRAM[0m
+[0;32mI (252) heap_init: At 4008CC34 len 000133CC (76 KiB): IRAM[0m
+[0;32mI (259) spi_flash: detected chip: generic[0m
+[0;32mI (261) spi_flash: flash io: dio[0m
+[0;33mW (264) spi_flash: Detected size(4096k) larger than the size in the binary image header(2048k). Using the size in the binary image header.[0m
+[0;32mI (277) main_task: Started on CPU0[0m
+[0;32mI (287) main_task: Calling app_main()[0m
+[0;32mI (287) gpio: GPIO[4]| InputEn: 1| OutputEn: 0| OpenDrain: 0| Pullup: 0| Pulldown: 1| Intr:0 [0m
+[0;32mI (287) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (307) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (327) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (347) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (367) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (387) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (407) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (427) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (447) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (467) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (487) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (507) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (527) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (547) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (567) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (587) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (607) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (627) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (647) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (667) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (687) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (707) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (727) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (747) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (767) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (787) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (807) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (827) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (847) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (867) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (887) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (907) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (927) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (947) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (967) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (987) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (1007) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (1027) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (1047) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (1067) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (1087) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (1107) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (1127) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (1147) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (1167) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (1187) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (1207) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (1227) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (1247) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (1267) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (1287) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (1307) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (1327) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (1347) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (1367) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (1387) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (1407) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (1427) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (1447) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (1467) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (1487) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (1507) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (1527) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (1547) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (1567) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (1587) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (1607) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (1627) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (1647) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (1667) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (1687) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (1707) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (1727) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (1747) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (1767) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (1787) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (1807) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (1827) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (1847) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (1867) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (1887) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (1907) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (1927) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (1947) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (1967) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (1987) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (2007) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (2027) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (2047) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (2067) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (2087) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (2107) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (2127) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (2147) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (2167) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (2187) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (2207) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (2227) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (2247) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (2267) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (2287) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (2307) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (2327) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (2347) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (2367) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (2387) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (2407) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (2427) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (2447) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (2467) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (2487) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (2507) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (2527) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (2547) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (2567) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (2587) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (2607) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (2627) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (2647) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (2667) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (2687) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (2707) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (2727) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (2747) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (2767) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (2787) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (2807) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (2827) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (2847) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (2867) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (2887) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (2907) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (2927) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (2947) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (2967) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (2987) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (3007) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (3027) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (3047) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (3067) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (3087) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (3107) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (3127) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (3147) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (3167) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (3187) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (3207) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (3227) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (3247) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (3267) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (3287) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (3307) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (3327) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (3347) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (3367) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (3387) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (3407) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (3427) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (3447) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (3467) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (3487) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (3507) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (3527) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (3547) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (3567) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (3587) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (3607) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (3627) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (3647) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (3667) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (3687) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (3707) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (3727) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (3747) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (3767) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (3787) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (3807) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (3827) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (3847) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (3867) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (3887) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (3907) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (3927) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (3947) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (3967) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (3987) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (4007) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (4027) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (4047) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (4067) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (4087) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (4107) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (4127) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (4147) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (4167) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (4187) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (4207) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (4227) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (4247) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (4267) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (4287) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (4307) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (4327) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (4347) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (4367) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (4387) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (4407) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (4427) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (4447) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (4467) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (4487) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (4507) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (4527) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (4547) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (4567) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (4587) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (4607) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (4627) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (4647) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (4667) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (4687) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (4707) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (4727) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (4747) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (4767) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (4787) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (4807) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (4827) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (4847) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (4867) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (4887) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (4907) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (4927) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (4947) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (4967) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (4987) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (5007) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (5027) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (5047) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (5067) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (5087) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (5107) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (5127) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (5147) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (5167) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (5187) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (5207) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (5227) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (5247) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (5267) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (5287) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (5307) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (5327) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (5347) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (5367) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (5387) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (5407) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (5427) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (5447) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (5467) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (5487) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (5507) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (5527) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (5547) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (5567) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (5587) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (5607) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (5627) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (5647) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (5667) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (5687) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (5707) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (5727) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (5747) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (5767) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (5787) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (5807) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (5827) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (5847) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (5867) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (5887) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (5907) SW420: Vibration Detected at D4 !!![0m
+[0;32mI (5927) SW420: Vibration Detected at D4 !!![0m

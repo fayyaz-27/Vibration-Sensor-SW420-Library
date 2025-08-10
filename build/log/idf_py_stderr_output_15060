@@ -1,0 +1,1719 @@
+[0;33m--- esp-idf-monitor 1.6.2 on com7 115200[0m
+[0;33m--- Quit: Ctrl+] | Menu: Ctrl+T | Help: Ctrl+T followed by Ctrl+H[0m
+[0;33m--- 0x40080400: _init at ??:?
+[0m
+[0;33m--- 0x400d7c26: task_wdt_timeout_handling at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:434
+--- 0x400d7fe8: task_wdt_isr at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:507
+--- 0x40082e59: _xt_lowint1 at C:/Espressif/frameworks/esp-idf-v5.4.1/components/xtensa/xtensa_vectors.S:1240
+--- 0x4000c04d: _xtos_return_from_exc in ROM
+--- 0x400d66a6: app_main at C:/Espressif/projects_esp_fayyaz/vibration_sensor_sw420/main/main.c:35
+--- 0x400e3340: main_task at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/app_startup.c:208
+--- 0x40085fe9: vPortTaskWrapper at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x400d7c26: task_wdt_timeout_handling at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:434
+--- 0x400d7fe8: task_wdt_isr at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:507
+--- 0x40082e59: _xt_lowint1 at C:/Espressif/frameworks/esp-idf-v5.4.1/components/xtensa/xtensa_vectors.S:1240
+--- 0x4000c04d: _xtos_return_from_exc in ROM
+--- 0x400d66a6: app_main at C:/Espressif/projects_esp_fayyaz/vibration_sensor_sw420/main/main.c:35
+--- 0x400e3340: main_task at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/app_startup.c:208
+--- 0x40085fe9: vPortTaskWrapper at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x400d7c26: task_wdt_timeout_handling at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:434
+--- 0x400d7fe8: task_wdt_isr at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:507
+--- 0x40082e59: _xt_lowint1 at C:/Espressif/frameworks/esp-idf-v5.4.1/components/xtensa/xtensa_vectors.S:1240
+--- 0x4000c04d: _xtos_return_from_exc in ROM
+--- 0x400d66a6: app_main at C:/Espressif/projects_esp_fayyaz/vibration_sensor_sw420/main/main.c:35
+--- 0x400e3340: main_task at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/app_startup.c:208
+--- 0x40085fe9: vPortTaskWrapper at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x400d7c26: task_wdt_timeout_handling at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:434
+--- 0x400d7fe8: task_wdt_isr at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:507
+--- 0x40082e59: _xt_lowint1 at C:/Espressif/frameworks/esp-idf-v5.4.1/components/xtensa/xtensa_vectors.S:1240
+--- 0x4000c04d: _xtos_return_from_exc in ROM
+--- 0x400d66a6: app_main at C:/Espressif/projects_esp_fayyaz/vibration_sensor_sw420/main/main.c:35
+--- 0x400e3340: main_task at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/app_startup.c:208
+--- 0x40085fe9: vPortTaskWrapper at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x400d7c26: task_wdt_timeout_handling at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:434
+--- 0x400d7fe8: task_wdt_isr at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:507
+--- 0x40082e59: _xt_lowint1 at C:/Espressif/frameworks/esp-idf-v5.4.1/components/xtensa/xtensa_vectors.S:1240
+--- 0x4000c04d: _xtos_return_from_exc in ROM
+--- 0x400d66a6: app_main at C:/Espressif/projects_esp_fayyaz/vibration_sensor_sw420/main/main.c:35
+--- 0x400e3340: main_task at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/app_startup.c:208
+--- 0x40085fe9: vPortTaskWrapper at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x400d7c26: task_wdt_timeout_handling at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:434
+--- 0x400d7fe8: task_wdt_isr at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:507
+--- 0x40082e59: _xt_lowint1 at C:/Espressif/frameworks/esp-idf-v5.4.1/components/xtensa/xtensa_vectors.S:1240
+--- 0x4000c04d: _xtos_return_from_exc in ROM
+--- 0x400d66a6: app_main at C:/Espressif/projects_esp_fayyaz/vibration_sensor_sw420/main/main.c:35
+--- 0x400e3340: main_task at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/app_startup.c:208
+--- 0x40085fe9: vPortTaskWrapper at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x400d7c26: task_wdt_timeout_handling at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:434
+--- 0x400d7fe8: task_wdt_isr at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:507
+--- 0x40082e59: _xt_lowint1 at C:/Espressif/frameworks/esp-idf-v5.4.1/components/xtensa/xtensa_vectors.S:1240
+--- 0x4000c04d: _xtos_return_from_exc in ROM
+--- 0x400d66a6: app_main at C:/Espressif/projects_esp_fayyaz/vibration_sensor_sw420/main/main.c:35
+--- 0x400e3340: main_task at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/app_startup.c:208
+--- 0x40085fe9: vPortTaskWrapper at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x400d7c26: task_wdt_timeout_handling at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:434
+--- 0x400d7fe8: task_wdt_isr at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:507
+--- 0x40082e59: _xt_lowint1 at C:/Espressif/frameworks/esp-idf-v5.4.1/components/xtensa/xtensa_vectors.S:1240
+--- 0x4000c04d: _xtos_return_from_exc in ROM
+--- 0x400d66a6: app_main at C:/Espressif/projects_esp_fayyaz/vibration_sensor_sw420/main/main.c:35
+--- 0x400e3340: main_task at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/app_startup.c:208
+--- 0x40085fe9: vPortTaskWrapper at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x400d7c26: task_wdt_timeout_handling at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:434
+--- 0x400d7fe8: task_wdt_isr at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:507
+--- 0x40082e59: _xt_lowint1 at C:/Espressif/frameworks/esp-idf-v5.4.1/components/xtensa/xtensa_vectors.S:1240
+--- 0x4000c04d: _xtos_return_from_exc in ROM
+--- 0x400d66a6: app_main at C:/Espressif/projects_esp_fayyaz/vibration_sensor_sw420/main/main.c:35
+--- 0x400e3340: main_task at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/app_startup.c:208
+--- 0x40085fe9: vPortTaskWrapper at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x400d7c26: task_wdt_timeout_handling at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:434
+--- 0x400d7fe8: task_wdt_isr at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:507
+--- 0x40082e59: _xt_lowint1 at C:/Espressif/frameworks/esp-idf-v5.4.1/components/xtensa/xtensa_vectors.S:1240
+--- 0x4000c04d: _xtos_return_from_exc in ROM
+--- 0x400d66a6: app_main at C:/Espressif/projects_esp_fayyaz/vibration_sensor_sw420/main/main.c:35
+--- 0x400e3340: main_task at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/app_startup.c:208
+--- 0x40085fe9: vPortTaskWrapper at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x400d7c26: task_wdt_timeout_handling at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:434
+--- 0x400d7fe8: task_wdt_isr at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:507
+--- 0x40082e59: _xt_lowint1 at C:/Espressif/frameworks/esp-idf-v5.4.1/components/xtensa/xtensa_vectors.S:1240
+--- 0x4000c04d: _xtos_return_from_exc in ROM
+--- 0x400d66a6: app_main at C:/Espressif/projects_esp_fayyaz/vibration_sensor_sw420/main/main.c:35
+--- 0x400e3340: main_task at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/app_startup.c:208
+--- 0x40085fe9: vPortTaskWrapper at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x400d7c26: task_wdt_timeout_handling at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:434
+--- 0x400d7fe8: task_wdt_isr at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:507
+--- 0x40082e59: _xt_lowint1 at C:/Espressif/frameworks/esp-idf-v5.4.1/components/xtensa/xtensa_vectors.S:1240
+--- 0x4000c04d: _xtos_return_from_exc in ROM
+--- 0x400d66a6: app_main at C:/Espressif/projects_esp_fayyaz/vibration_sensor_sw420/main/main.c:35
+--- 0x400e3340: main_task at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/app_startup.c:208
+--- 0x40085fe9: vPortTaskWrapper at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x400d7c26: task_wdt_timeout_handling at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:434
+--- 0x400d7fe8: task_wdt_isr at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:507
+--- 0x40082e59: _xt_lowint1 at C:/Espressif/frameworks/esp-idf-v5.4.1/components/xtensa/xtensa_vectors.S:1240
+--- 0x4000c04d: _xtos_return_from_exc in ROM
+--- 0x400d66a6: app_main at C:/Espressif/projects_esp_fayyaz/vibration_sensor_sw420/main/main.c:35
+--- 0x400e3340: main_task at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/app_startup.c:208
+--- 0x40085fe9: vPortTaskWrapper at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x400d7c26: task_wdt_timeout_handling at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:434
+--- 0x400d7fe8: task_wdt_isr at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:507
+--- 0x40082e59: _xt_lowint1 at C:/Espressif/frameworks/esp-idf-v5.4.1/components/xtensa/xtensa_vectors.S:1240
+--- 0x4000c04d: _xtos_return_from_exc in ROM
+--- 0x400d66a6: app_main at C:/Espressif/projects_esp_fayyaz/vibration_sensor_sw420/main/main.c:35
+--- 0x400e3340: main_task at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/app_startup.c:208
+--- 0x40085fe9: vPortTaskWrapper at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x400d7c26: task_wdt_timeout_handling at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:434
+--- 0x400d7fe8: task_wdt_isr at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:507
+--- 0x40082e59: _xt_lowint1 at C:/Espressif/frameworks/esp-idf-v5.4.1/components/xtensa/xtensa_vectors.S:1240
+--- 0x4000c04d: _xtos_return_from_exc in ROM
+--- 0x400d66a6: app_main at C:/Espressif/projects_esp_fayyaz/vibration_sensor_sw420/main/main.c:35
+--- 0x400e3340: main_task at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/app_startup.c:208
+--- 0x40085fe9: vPortTaskWrapper at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x400d7c26: task_wdt_timeout_handling at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:434
+--- 0x400d7fe8: task_wdt_isr at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:507
+--- 0x40082e59: _xt_lowint1 at C:/Espressif/frameworks/esp-idf-v5.4.1/components/xtensa/xtensa_vectors.S:1240
+--- 0x4000c04d: _xtos_return_from_exc in ROM
+--- 0x400d66a6: app_main at C:/Espressif/projects_esp_fayyaz/vibration_sensor_sw420/main/main.c:35
+--- 0x400e3340: main_task at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/app_startup.c:208
+--- 0x40085fe9: vPortTaskWrapper at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x400d7c26: task_wdt_timeout_handling at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:434
+--- 0x400d7fe8: task_wdt_isr at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:507
+--- 0x40082e59: _xt_lowint1 at C:/Espressif/frameworks/esp-idf-v5.4.1/components/xtensa/xtensa_vectors.S:1240
+--- 0x4000c04d: _xtos_return_from_exc in ROM
+--- 0x400d66a6: app_main at C:/Espressif/projects_esp_fayyaz/vibration_sensor_sw420/main/main.c:35
+--- 0x400e3340: main_task at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/app_startup.c:208
+--- 0x40085fe9: vPortTaskWrapper at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x400d7c26: task_wdt_timeout_handling at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:434
+--- 0x400d7fe8: task_wdt_isr at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:507
+--- 0x40082e59: _xt_lowint1 at C:/Espressif/frameworks/esp-idf-v5.4.1/components/xtensa/xtensa_vectors.S:1240
+--- 0x4000c04d: _xtos_return_from_exc in ROM
+--- 0x400d66a6: app_main at C:/Espressif/projects_esp_fayyaz/vibration_sensor_sw420/main/main.c:35
+--- 0x400e3340: main_task at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/app_startup.c:208
+--- 0x40085fe9: vPortTaskWrapper at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x400d7c26: task_wdt_timeout_handling at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:434
+--- 0x400d7fe8: task_wdt_isr at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:507
+--- 0x40082e59: _xt_lowint1 at C:/Espressif/frameworks/esp-idf-v5.4.1/components/xtensa/xtensa_vectors.S:1240
+--- 0x4000c04d: _xtos_return_from_exc in ROM
+--- 0x400d66a6: app_main at C:/Espressif/projects_esp_fayyaz/vibration_sensor_sw420/main/main.c:35
+--- 0x400e3340: main_task at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/app_startup.c:208
+--- 0x40085fe9: vPortTaskWrapper at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x400d7c26: task_wdt_timeout_handling at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:434
+--- 0x400d7fe8: task_wdt_isr at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:507
+--- 0x40082e59: _xt_lowint1 at C:/Espressif/frameworks/esp-idf-v5.4.1/components/xtensa/xtensa_vectors.S:1240
+--- 0x4000c04d: _xtos_return_from_exc in ROM
+--- 0x400d66a6: app_main at C:/Espressif/projects_esp_fayyaz/vibration_sensor_sw420/main/main.c:35
+--- 0x400e3340: main_task at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/app_startup.c:208
+--- 0x40085fe9: vPortTaskWrapper at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x400d7c26: task_wdt_timeout_handling at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:434
+--- 0x400d7fe8: task_wdt_isr at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:507
+--- 0x40082e59: _xt_lowint1 at C:/Espressif/frameworks/esp-idf-v5.4.1/components/xtensa/xtensa_vectors.S:1240
+--- 0x4000c04d: _xtos_return_from_exc in ROM
+--- 0x400d66a6: app_main at C:/Espressif/projects_esp_fayyaz/vibration_sensor_sw420/main/main.c:35
+--- 0x400e3340: main_task at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/app_startup.c:208
+--- 0x40085fe9: vPortTaskWrapper at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x400d7c26: task_wdt_timeout_handling at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:434
+--- 0x400d7fe8: task_wdt_isr at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:507
+--- 0x40082e59: _xt_lowint1 at C:/Espressif/frameworks/esp-idf-v5.4.1/components/xtensa/xtensa_vectors.S:1240
+--- 0x4000c04d: _xtos_return_from_exc in ROM
+--- 0x400d66a6: app_main at C:/Espressif/projects_esp_fayyaz/vibration_sensor_sw420/main/main.c:35
+--- 0x400e3340: main_task at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/app_startup.c:208
+--- 0x40085fe9: vPortTaskWrapper at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x400d7c26: task_wdt_timeout_handling at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:434
+--- 0x400d7fe8: task_wdt_isr at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:507
+--- 0x40082e59: _xt_lowint1 at C:/Espressif/frameworks/esp-idf-v5.4.1/components/xtensa/xtensa_vectors.S:1240
+--- 0x4000c04d: _xtos_return_from_exc in ROM
+--- 0x400d66a6: app_main at C:/Espressif/projects_esp_fayyaz/vibration_sensor_sw420/main/main.c:35
+--- 0x400e3340: main_task at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/app_startup.c:208
+--- 0x40085fe9: vPortTaskWrapper at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x400d7c26: task_wdt_timeout_handling at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:434
+--- 0x400d7fe8: task_wdt_isr at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:507
+--- 0x40082e59: _xt_lowint1 at C:/Espressif/frameworks/esp-idf-v5.4.1/components/xtensa/xtensa_vectors.S:1240
+--- 0x4000c04d: _xtos_return_from_exc in ROM
+--- 0x400d66a6: app_main at C:/Espressif/projects_esp_fayyaz/vibration_sensor_sw420/main/main.c:35
+--- 0x400e3340: main_task at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/app_startup.c:208
+--- 0x40085fe9: vPortTaskWrapper at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x400d7c26: task_wdt_timeout_handling at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:434
+--- 0x400d7fe8: task_wdt_isr at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:507
+--- 0x40082e59: _xt_lowint1 at C:/Espressif/frameworks/esp-idf-v5.4.1/components/xtensa/xtensa_vectors.S:1240
+--- 0x4000c04d: _xtos_return_from_exc in ROM
+--- 0x400d66a6: app_main at C:/Espressif/projects_esp_fayyaz/vibration_sensor_sw420/main/main.c:35
+--- 0x400e3340: main_task at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/app_startup.c:208
+--- 0x40085fe9: vPortTaskWrapper at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x400d7c26: task_wdt_timeout_handling at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:434
+--- 0x400d7fe8: task_wdt_isr at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:507
+--- 0x40082e59: _xt_lowint1 at C:/Espressif/frameworks/esp-idf-v5.4.1/components/xtensa/xtensa_vectors.S:1240
+--- 0x4000c04d: _xtos_return_from_exc in ROM
+--- 0x400d66a6: app_main at C:/Espressif/projects_esp_fayyaz/vibration_sensor_sw420/main/main.c:35
+--- 0x400e3340: main_task at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/app_startup.c:208
+--- 0x40085fe9: vPortTaskWrapper at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x400d7c26: task_wdt_timeout_handling at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:434
+--- 0x400d7fe8: task_wdt_isr at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:507
+--- 0x40082e59: _xt_lowint1 at C:/Espressif/frameworks/esp-idf-v5.4.1/components/xtensa/xtensa_vectors.S:1240
+--- 0x4000c04d: _xtos_return_from_exc in ROM
+--- 0x400d66a6: app_main at C:/Espressif/projects_esp_fayyaz/vibration_sensor_sw420/main/main.c:35
+--- 0x400e3340: main_task at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/app_startup.c:208
+--- 0x40085fe9: vPortTaskWrapper at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x400d7c26: task_wdt_timeout_handling at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:434
+--- 0x400d7fe8: task_wdt_isr at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:507
+--- 0x40082e59: _xt_lowint1 at C:/Espressif/frameworks/esp-idf-v5.4.1/components/xtensa/xtensa_vectors.S:1240
+--- 0x4000c04d: _xtos_return_from_exc in ROM
+--- 0x400d66a6: app_main at C:/Espressif/projects_esp_fayyaz/vibration_sensor_sw420/main/main.c:35
+--- 0x400e3340: main_task at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/app_startup.c:208
+--- 0x40085fe9: vPortTaskWrapper at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x400d7c26: task_wdt_timeout_handling at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:434
+--- 0x400d7fe8: task_wdt_isr at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:507
+--- 0x40082e59: _xt_lowint1 at C:/Espressif/frameworks/esp-idf-v5.4.1/components/xtensa/xtensa_vectors.S:1240
+--- 0x4000c04d: _xtos_return_from_exc in ROM
+--- 0x400d66a6: app_main at C:/Espressif/projects_esp_fayyaz/vibration_sensor_sw420/main/main.c:35
+--- 0x400e3340: main_task at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/app_startup.c:208
+--- 0x40085fe9: vPortTaskWrapper at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x400d7c26: task_wdt_timeout_handling at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:434
+--- 0x400d7fe8: task_wdt_isr at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:507
+--- 0x40082e59: _xt_lowint1 at C:/Espressif/frameworks/esp-idf-v5.4.1/components/xtensa/xtensa_vectors.S:1240
+--- 0x4000c04d: _xtos_return_from_exc in ROM
+--- 0x400d66a6: app_main at C:/Espressif/projects_esp_fayyaz/vibration_sensor_sw420/main/main.c:35
+--- 0x400e3340: main_task at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/app_startup.c:208
+--- 0x40085fe9: vPortTaskWrapper at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x400d7c26: task_wdt_timeout_handling at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:434
+--- 0x400d7fe8: task_wdt_isr at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:507
+--- 0x40082e59: _xt_lowint1 at C:/Espressif/frameworks/esp-idf-v5.4.1/components/xtensa/xtensa_vectors.S:1240
+--- 0x4000c04d: _xtos_return_from_exc in ROM
+--- 0x400d66a6: app_main at C:/Espressif/projects_esp_fayyaz/vibration_sensor_sw420/main/main.c:35
+--- 0x400e3340: main_task at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/app_startup.c:208
+--- 0x40085fe9: vPortTaskWrapper at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x400d7c26: task_wdt_timeout_handling at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:434
+--- 0x400d7fe8: task_wdt_isr at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:507
+--- 0x40082e59: _xt_lowint1 at C:/Espressif/frameworks/esp-idf-v5.4.1/components/xtensa/xtensa_vectors.S:1240
+--- 0x4000c04d: _xtos_return_from_exc in ROM
+--- 0x400d66a6: app_main at C:/Espressif/projects_esp_fayyaz/vibration_sensor_sw420/main/main.c:35
+--- 0x400e3340: main_task at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/app_startup.c:208
+--- 0x40085fe9: vPortTaskWrapper at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x400d7c26: task_wdt_timeout_handling at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:434
+--- 0x400d7fe8: task_wdt_isr at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:507
+--- 0x40082e59: _xt_lowint1 at C:/Espressif/frameworks/esp-idf-v5.4.1/components/xtensa/xtensa_vectors.S:1240
+--- 0x4000c04d: _xtos_return_from_exc in ROM
+--- 0x400d66a6: app_main at C:/Espressif/projects_esp_fayyaz/vibration_sensor_sw420/main/main.c:35
+--- 0x400e3340: main_task at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/app_startup.c:208
+--- 0x40085fe9: vPortTaskWrapper at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x400d7c26: task_wdt_timeout_handling at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:434
+--- 0x400d7fe8: task_wdt_isr at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:507
+--- 0x40082e59: _xt_lowint1 at C:/Espressif/frameworks/esp-idf-v5.4.1/components/xtensa/xtensa_vectors.S:1240
+--- 0x4000c04d: _xtos_return_from_exc in ROM
+--- 0x400d66a6: app_main at C:/Espressif/projects_esp_fayyaz/vibration_sensor_sw420/main/main.c:35
+--- 0x400e3340: main_task at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/app_startup.c:208
+--- 0x40085fe9: vPortTaskWrapper at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x400d7c26: task_wdt_timeout_handling at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:434
+--- 0x400d7fe8: task_wdt_isr at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:507
+--- 0x40082e59: _xt_lowint1 at C:/Espressif/frameworks/esp-idf-v5.4.1/components/xtensa/xtensa_vectors.S:1240
+--- 0x400d4630: uart_ll_get_txfifo_len at C:/Espressif/frameworks/esp-idf-v5.4.1/components/hal/esp32/include/hal/uart_ll.h:428
+---  (inlined by) uart_tx_char at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_driver_uart/src/uart_vfs.c:190
+--- 0x400d4d31: uart_write at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_driver_uart/src/uart_vfs.c:238
+--- 0x400d5c0a: esp_vfs_write at C:/Espressif/frameworks/esp-idf-v5.4.1/components/vfs/vfs.c:945 (discriminator 4)
+--- 0x4000bd83: _write_r in ROM
+--- 0x4000182a: write in ROM
+--- 0x400d563d: console_write at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_vfs_console/vfs_console.c:71
+--- 0x400d5c0a: esp_vfs_write at C:/Espressif/frameworks/esp-idf-v5.4.1/components/vfs/vfs.c:945 (discriminator 4)
+--- 0x4000bd83: _write_r in ROM
+--- 0x4000117d: __swrite in ROM
+--- 0x400592fe: __sflush_r in ROM
+--- 0x4005937a: _fflush_r in ROM
+--- 0x400d8e89: __sfvwrite_r at /builds/idf/crosstool-NG/.build/xtensa-esp-elf/src/newlib/newlib/libc/stdio/fvwrite.c:251
+--- 0x400dca5b: __sprint_r at /builds/idf/crosstool-NG/.build/xtensa-esp-elf/src/newlib/newlib/libc/stdio/vfprintf.c:429
+---  (inlined by) __sprint_r at /builds/idf/crosstool-NG/.build/xtensa-esp-elf/src/newlib/newlib/libc/stdio/vfprintf.c:399
+--- 0x400dc472: _vfprintf_r at /builds/idf/crosstool-NG/.build/xtensa-esp-elf/src/newlib/newlib/libc/stdio/vfprintf.c:1774 (discriminator 1)
+--- 0x400d8f31: vprintf at /builds/idf/crosstool-NG/.build/xtensa-esp-elf/src/newlib/newlib/libc/stdio/vprintf.c:34
+--- 0x400e3915: esp_log_writev at C:/Espressif/frameworks/esp-idf-v5.4.1/components/log/src/os/log_write.c:34
+--- 0x4008b4a5: esp_log_write at C:/Espressif/frameworks/esp-idf-v5.4.1/components/log/src/os/log_write.c:44
+--- 0x400d668d: app_main at C:/Espressif/projects_esp_fayyaz/vibration_sensor_sw420/main/main.c:31 (discriminator 1)
+--- 0x400e3340: main_task at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/app_startup.c:208
+--- 0x40085fe9: vPortTaskWrapper at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x400d7c26: task_wdt_timeout_handling at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:434
+--- 0x400d7fe8: task_wdt_isr at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:507
+--- 0x40082e59: _xt_lowint1 at C:/Espressif/frameworks/esp-idf-v5.4.1/components/xtensa/xtensa_vectors.S:1240
+--- 0x4000c04d: _xtos_return_from_exc in ROM
+--- 0x400d66a6: app_main at C:/Espressif/projects_esp_fayyaz/vibration_sensor_sw420/main/main.c:35
+--- 0x400e3340: main_task at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/app_startup.c:208
+--- 0x40085fe9: vPortTaskWrapper at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x400d7c26: task_wdt_timeout_handling at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:434
+--- 0x400d7fe8: task_wdt_isr at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:507
+--- 0x40082e59: _xt_lowint1 at C:/Espressif/frameworks/esp-idf-v5.4.1/components/xtensa/xtensa_vectors.S:1240
+--- 0x4000c053: xthal_get_ccount in ROM
+--- 0x40008544: ets_delay_us in ROM
+--- 0x400d66a6: app_main at C:/Espressif/projects_esp_fayyaz/vibration_sensor_sw420/main/main.c:35
+--- 0x400e3340: main_task at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/app_startup.c:208
+--- 0x40085fe9: vPortTaskWrapper at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x400d7c26: task_wdt_timeout_handling at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:434
+--- 0x400d7fe8: task_wdt_isr at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:507
+--- 0x40082e59: _xt_lowint1 at C:/Espressif/frameworks/esp-idf-v5.4.1/components/xtensa/xtensa_vectors.S:1240
+--- 0x4000c04d: _xtos_return_from_exc in ROM
+--- 0x400d66a6: app_main at C:/Espressif/projects_esp_fayyaz/vibration_sensor_sw420/main/main.c:35
+--- 0x400e3340: main_task at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/app_startup.c:208
+--- 0x40085fe9: vPortTaskWrapper at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x400d7c26: task_wdt_timeout_handling at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:434
+--- 0x400d7fe8: task_wdt_isr at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:507
+--- 0x40082e59: _xt_lowint1 at C:/Espressif/frameworks/esp-idf-v5.4.1/components/xtensa/xtensa_vectors.S:1240
+--- 0x4000c04d: _xtos_return_from_exc in ROM
+--- 0x400d66a6: app_main at C:/Espressif/projects_esp_fayyaz/vibration_sensor_sw420/main/main.c:35
+--- 0x400e3340: main_task at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/app_startup.c:208
+--- 0x40085fe9: vPortTaskWrapper at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x400d7c26: task_wdt_timeout_handling at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:434
+--- 0x400d7fe8: task_wdt_isr at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:507
+--- 0x40082e59: _xt_lowint1 at C:/Espressif/frameworks/esp-idf-v5.4.1/components/xtensa/xtensa_vectors.S:1240
+--- 0x4000c04d: _xtos_return_from_exc in ROM
+--- 0x400d66a6: app_main at C:/Espressif/projects_esp_fayyaz/vibration_sensor_sw420/main/main.c:35
+--- 0x400e3340: main_task at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/app_startup.c:208
+--- 0x40085fe9: vPortTaskWrapper at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x400d7c26: task_wdt_timeout_handling at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:434
+--- 0x400d7fe8: task_wdt_isr at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:507
+--- 0x40082e59: _xt_lowint1 at C:/Espressif/frameworks/esp-idf-v5.4.1/components/xtensa/xtensa_vectors.S:1240
+--- 0x4000c04d: _xtos_return_from_exc in ROM
+--- 0x400d6696: app_main at C:/Espressif/projects_esp_fayyaz/vibration_sensor_sw420/main/main.c:32
+--- 0x400e3340: main_task at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/app_startup.c:208
+--- 0x40085fe9: vPortTaskWrapper at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x400d7c26: task_wdt_timeout_handling at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:434
+--- 0x400d7fe8: task_wdt_isr at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:507
+--- 0x40082e59: _xt_lowint1 at C:/Espressif/frameworks/esp-idf-v5.4.1/components/xtensa/xtensa_vectors.S:1240
+--- 0x40008541: ets_delay_us in ROM
+--- 0x400d6696: app_main at C:/Espressif/projects_esp_fayyaz/vibration_sensor_sw420/main/main.c:32
+--- 0x400e3340: main_task at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/app_startup.c:208
+--- 0x40085fe9: vPortTaskWrapper at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x400d7c26: task_wdt_timeout_handling at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:434
+--- 0x400d7fe8: task_wdt_isr at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:507
+--- 0x40082e59: _xt_lowint1 at C:/Espressif/frameworks/esp-idf-v5.4.1/components/xtensa/xtensa_vectors.S:1240
+--- 0x400d463a: uart_ll_get_txfifo_len at C:/Espressif/frameworks/esp-idf-v5.4.1/components/hal/esp32/include/hal/uart_ll.h:428
+---  (inlined by) uart_tx_char at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_driver_uart/src/uart_vfs.c:190
+--- 0x400d4d4f: uart_write at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_driver_uart/src/uart_vfs.c:243
+--- 0x400d5c0a: esp_vfs_write at C:/Espressif/frameworks/esp-idf-v5.4.1/components/vfs/vfs.c:945 (discriminator 4)
+--- 0x4000bd83: _write_r in ROM
+--- 0x4000182a: write in ROM
+--- 0x400d563d: console_write at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_vfs_console/vfs_console.c:71
+--- 0x400d5c0a: esp_vfs_write at C:/Espressif/frameworks/esp-idf-v5.4.1/components/vfs/vfs.c:945 (discriminator 4)
+--- 0x4000bd83: _write_r in ROM
+--- 0x4000117d: __swrite in ROM
+--- 0x400592fe: __sflush_r in ROM
+--- 0x4005937a: _fflush_r in ROM
+--- 0x400d8e89: __sfvwrite_r at /builds/idf/crosstool-NG/.build/xtensa-esp-elf/src/newlib/newlib/libc/stdio/fvwrite.c:251
+--- 0x400dca5b: __sprint_r at /builds/idf/crosstool-NG/.build/xtensa-esp-elf/src/newlib/newlib/libc/stdio/vfprintf.c:429
+---  (inlined by) __sprint_r at /builds/idf/crosstool-NG/.build/xtensa-esp-elf/src/newlib/newlib/libc/stdio/vfprintf.c:399
+--- 0x400dc472: _vfprintf_r at /builds/idf/crosstool-NG/.build/xtensa-esp-elf/src/newlib/newlib/libc/stdio/vfprintf.c:1774 (discriminator 1)
+--- 0x400d8f31: vprintf at /builds/idf/crosstool-NG/.build/xtensa-esp-elf/src/newlib/newlib/libc/stdio/vprintf.c:34
+--- 0x400e3915: esp_log_writev at C:/Espressif/frameworks/esp-idf-v5.4.1/components/log/src/os/log_write.c:34
+--- 0x4008b4a5: esp_log_write at C:/Espressif/frameworks/esp-idf-v5.4.1/components/log/src/os/log_write.c:44
+--- 0x400d668d: app_main at C:/Espressif/projects_esp_fayyaz/vibration_sensor_sw420/main/main.c:31 (discriminator 1)
+--- 0x400e3340: main_task at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/app_startup.c:208
+--- 0x40085fe9: vPortTaskWrapper at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x400d7c26: task_wdt_timeout_handling at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:434
+--- 0x400d7fe8: task_wdt_isr at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:507
+--- 0x40082e59: _xt_lowint1 at C:/Espressif/frameworks/esp-idf-v5.4.1/components/xtensa/xtensa_vectors.S:1240
+--- 0x4000c053: xthal_get_ccount in ROM
+--- 0x40008544: ets_delay_us in ROM
+--- 0x400d6696: app_main at C:/Espressif/projects_esp_fayyaz/vibration_sensor_sw420/main/main.c:32
+--- 0x400e3340: main_task at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/app_startup.c:208
+--- 0x40085fe9: vPortTaskWrapper at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x400d7c26: task_wdt_timeout_handling at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:434
+--- 0x400d7fe8: task_wdt_isr at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:507
+--- 0x40082e59: _xt_lowint1 at C:/Espressif/frameworks/esp-idf-v5.4.1/components/xtensa/xtensa_vectors.S:1240
+--- 0x4000c04d: _xtos_return_from_exc in ROM
+--- 0x400d66a6: app_main at C:/Espressif/projects_esp_fayyaz/vibration_sensor_sw420/main/main.c:35
+--- 0x400e3340: main_task at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/app_startup.c:208
+--- 0x40085fe9: vPortTaskWrapper at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x400d7c26: task_wdt_timeout_handling at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:434
+--- 0x400d7fe8: task_wdt_isr at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:507
+--- 0x40082e59: _xt_lowint1 at C:/Espressif/frameworks/esp-idf-v5.4.1/components/xtensa/xtensa_vectors.S:1240
+--- 0x400d463c: uart_ll_get_txfifo_len at C:/Espressif/frameworks/esp-idf-v5.4.1/components/hal/esp32/include/hal/uart_ll.h:428
+---  (inlined by) uart_tx_char at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_driver_uart/src/uart_vfs.c:190
+--- 0x400d4d4f: uart_write at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_driver_uart/src/uart_vfs.c:243
+--- 0x400d5c0a: esp_vfs_write at C:/Espressif/frameworks/esp-idf-v5.4.1/components/vfs/vfs.c:945 (discriminator 4)
+--- 0x4000bd83: _write_r in ROM
+--- 0x4000182a: write in ROM
+--- 0x400d563d: console_write at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_vfs_console/vfs_console.c:71
+--- 0x400d5c0a: esp_vfs_write at C:/Espressif/frameworks/esp-idf-v5.4.1/components/vfs/vfs.c:945 (discriminator 4)
+--- 0x4000bd83: _write_r in ROM
+--- 0x4000117d: __swrite in ROM
+--- 0x400592fe: __sflush_r in ROM
+--- 0x4005937a: _fflush_r in ROM
+--- 0x400d8e89: __sfvwrite_r at /builds/idf/crosstool-NG/.build/xtensa-esp-elf/src/newlib/newlib/libc/stdio/fvwrite.c:251
+--- 0x400dca5b: __sprint_r at /builds/idf/crosstool-NG/.build/xtensa-esp-elf/src/newlib/newlib/libc/stdio/vfprintf.c:429
+---  (inlined by) __sprint_r at /builds/idf/crosstool-NG/.build/xtensa-esp-elf/src/newlib/newlib/libc/stdio/vfprintf.c:399
+--- 0x400dc472: _vfprintf_r at /builds/idf/crosstool-NG/.build/xtensa-esp-elf/src/newlib/newlib/libc/stdio/vfprintf.c:1774 (discriminator 1)
+--- 0x400d8f31: vprintf at /builds/idf/crosstool-NG/.build/xtensa-esp-elf/src/newlib/newlib/libc/stdio/vprintf.c:34
+--- 0x400e3915: esp_log_writev at C:/Espressif/frameworks/esp-idf-v5.4.1/components/log/src/os/log_write.c:34
+--- 0x4008b4a5: esp_log_write at C:/Espressif/frameworks/esp-idf-v5.4.1/components/log/src/os/log_write.c:44
+--- 0x400d668d: app_main at C:/Espressif/projects_esp_fayyaz/vibration_sensor_sw420/main/main.c:31 (discriminator 1)
+--- 0x400e3340: main_task at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/app_startup.c:208
+--- 0x40085fe9: vPortTaskWrapper at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x400d7c26: task_wdt_timeout_handling at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:434
+--- 0x400d7fe8: task_wdt_isr at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:507
+--- 0x40082e59: _xt_lowint1 at C:/Espressif/frameworks/esp-idf-v5.4.1/components/xtensa/xtensa_vectors.S:1240
+--- 0x4000c04d: _xtos_return_from_exc in ROM
+--- 0x400d66a6: app_main at C:/Espressif/projects_esp_fayyaz/vibration_sensor_sw420/main/main.c:35
+--- 0x400e3340: main_task at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/app_startup.c:208
+--- 0x40085fe9: vPortTaskWrapper at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x400d7c26: task_wdt_timeout_handling at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:434
+--- 0x400d7fe8: task_wdt_isr at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:507
+--- 0x40082e59: _xt_lowint1 at C:/Espressif/frameworks/esp-idf-v5.4.1/components/xtensa/xtensa_vectors.S:1240
+--- 0x4000c04d: _xtos_return_from_exc in ROM
+--- 0x400d66a6: app_main at C:/Espressif/projects_esp_fayyaz/vibration_sensor_sw420/main/main.c:35
+--- 0x400e3340: main_task at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/app_startup.c:208
+--- 0x40085fe9: vPortTaskWrapper at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x400d7c26: task_wdt_timeout_handling at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:434
+--- 0x400d7fe8: task_wdt_isr at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:507
+--- 0x40082e59: _xt_lowint1 at C:/Espressif/frameworks/esp-idf-v5.4.1/components/xtensa/xtensa_vectors.S:1240
+--- 0x4000c04d: _xtos_return_from_exc in ROM
+--- 0x400d66a6: app_main at C:/Espressif/projects_esp_fayyaz/vibration_sensor_sw420/main/main.c:35
+--- 0x400e3340: main_task at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/app_startup.c:208
+--- 0x40085fe9: vPortTaskWrapper at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x400d7c26: task_wdt_timeout_handling at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:434
+--- 0x400d7fe8: task_wdt_isr at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:507
+--- 0x40082e59: _xt_lowint1 at C:/Espressif/frameworks/esp-idf-v5.4.1/components/xtensa/xtensa_vectors.S:1240
+--- 0x40008541: ets_delay_us in ROM
+--- 0x400d6696: app_main at C:/Espressif/projects_esp_fayyaz/vibration_sensor_sw420/main/main.c:32
+--- 0x400e3340: main_task at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/app_startup.c:208
+--- 0x40085fe9: vPortTaskWrapper at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x400d7c26: task_wdt_timeout_handling at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:434
+--- 0x400d7fe8: task_wdt_isr at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:507
+--- 0x40082e59: _xt_lowint1 at C:/Espressif/frameworks/esp-idf-v5.4.1/components/xtensa/xtensa_vectors.S:1240
+--- 0x4000c04d: _xtos_return_from_exc in ROM
+--- 0x400d66a6: app_main at C:/Espressif/projects_esp_fayyaz/vibration_sensor_sw420/main/main.c:35
+--- 0x400e3340: main_task at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/app_startup.c:208
+--- 0x40085fe9: vPortTaskWrapper at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x400d7c26: task_wdt_timeout_handling at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:434
+--- 0x400d7fe8: task_wdt_isr at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:507
+--- 0x40082e59: _xt_lowint1 at C:/Espressif/frameworks/esp-idf-v5.4.1/components/xtensa/xtensa_vectors.S:1240
+--- 0x4000c04d: _xtos_return_from_exc in ROM
+--- 0x400d66a6: app_main at C:/Espressif/projects_esp_fayyaz/vibration_sensor_sw420/main/main.c:35
+--- 0x400e3340: main_task at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/app_startup.c:208
+--- 0x40085fe9: vPortTaskWrapper at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x400d7c26: task_wdt_timeout_handling at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:434
+--- 0x400d7fe8: task_wdt_isr at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:507
+--- 0x40082e59: _xt_lowint1 at C:/Espressif/frameworks/esp-idf-v5.4.1/components/xtensa/xtensa_vectors.S:1240
+--- 0x4000c04d: _xtos_return_from_exc in ROM
+--- 0x400d66a6: app_main at C:/Espressif/projects_esp_fayyaz/vibration_sensor_sw420/main/main.c:35
+--- 0x400e3340: main_task at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/app_startup.c:208
+--- 0x40085fe9: vPortTaskWrapper at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x400d7c26: task_wdt_timeout_handling at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:434
+--- 0x400d7fe8: task_wdt_isr at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:507
+--- 0x40082e59: _xt_lowint1 at C:/Espressif/frameworks/esp-idf-v5.4.1/components/xtensa/xtensa_vectors.S:1240
+--- 0x4000c04d: _xtos_return_from_exc in ROM
+--- 0x400d66a6: app_main at C:/Espressif/projects_esp_fayyaz/vibration_sensor_sw420/main/main.c:35
+--- 0x400e3340: main_task at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/app_startup.c:208
+--- 0x40085fe9: vPortTaskWrapper at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x400d7c26: task_wdt_timeout_handling at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:434
+--- 0x400d7fe8: task_wdt_isr at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:507
+--- 0x40082e59: _xt_lowint1 at C:/Espressif/frameworks/esp-idf-v5.4.1/components/xtensa/xtensa_vectors.S:1240
+--- 0x4000c04d: _xtos_return_from_exc in ROM
+--- 0x400d66a6: app_main at C:/Espressif/projects_esp_fayyaz/vibration_sensor_sw420/main/main.c:35
+--- 0x400e3340: main_task at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/app_startup.c:208
+--- 0x40085fe9: vPortTaskWrapper at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x400d7c26: task_wdt_timeout_handling at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:434
+--- 0x400d7fe8: task_wdt_isr at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:507
+--- 0x40082e59: _xt_lowint1 at C:/Espressif/frameworks/esp-idf-v5.4.1/components/xtensa/xtensa_vectors.S:1240
+--- 0x4000c04d: _xtos_return_from_exc in ROM
+--- 0x400d66a6: app_main at C:/Espressif/projects_esp_fayyaz/vibration_sensor_sw420/main/main.c:35
+--- 0x400e3340: main_task at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/app_startup.c:208
+--- 0x40085fe9: vPortTaskWrapper at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x400d7c26: task_wdt_timeout_handling at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:434
+--- 0x400d7fe8: task_wdt_isr at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:507
+--- 0x40082e59: _xt_lowint1 at C:/Espressif/frameworks/esp-idf-v5.4.1/components/xtensa/xtensa_vectors.S:1240
+--- 0x4000c04d: _xtos_return_from_exc in ROM
+--- 0x400d66a6: app_main at C:/Espressif/projects_esp_fayyaz/vibration_sensor_sw420/main/main.c:35
+--- 0x400e3340: main_task at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/app_startup.c:208
+--- 0x40085fe9: vPortTaskWrapper at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x400d7c26: task_wdt_timeout_handling at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:434
+--- 0x400d7fe8: task_wdt_isr at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:507
+--- 0x40082e59: _xt_lowint1 at C:/Espressif/frameworks/esp-idf-v5.4.1/components/xtensa/xtensa_vectors.S:1240
+--- 0x4000c04d: _xtos_return_from_exc in ROM
+--- 0x400d66a6: app_main at C:/Espressif/projects_esp_fayyaz/vibration_sensor_sw420/main/main.c:35
+--- 0x400e3340: main_task at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/app_startup.c:208
+--- 0x40085fe9: vPortTaskWrapper at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x400d7c26: task_wdt_timeout_handling at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:434
+--- 0x400d7fe8: task_wdt_isr at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:507
+--- 0x40082e59: _xt_lowint1 at C:/Espressif/frameworks/esp-idf-v5.4.1/components/xtensa/xtensa_vectors.S:1240
+--- 0x4000c04d: _xtos_return_from_exc in ROM
+--- 0x400d66a6: app_main at C:/Espressif/projects_esp_fayyaz/vibration_sensor_sw420/main/main.c:35
+--- 0x400e3340: main_task at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/app_startup.c:208
+--- 0x40085fe9: vPortTaskWrapper at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x400d7c26: task_wdt_timeout_handling at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:434
+--- 0x400d7fe8: task_wdt_isr at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:507
+--- 0x40082e59: _xt_lowint1 at C:/Espressif/frameworks/esp-idf-v5.4.1/components/xtensa/xtensa_vectors.S:1240
+--- 0x4000c04d: _xtos_return_from_exc in ROM
+--- 0x400d66a6: app_main at C:/Espressif/projects_esp_fayyaz/vibration_sensor_sw420/main/main.c:35
+--- 0x400e3340: main_task at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/app_startup.c:208
+--- 0x40085fe9: vPortTaskWrapper at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x400d7c26: task_wdt_timeout_handling at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:434
+--- 0x400d7fe8: task_wdt_isr at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:507
+--- 0x40082e59: _xt_lowint1 at C:/Espressif/frameworks/esp-idf-v5.4.1/components/xtensa/xtensa_vectors.S:1240
+--- 0x4000c04d: _xtos_return_from_exc in ROM
+--- 0x400d66a6: app_main at C:/Espressif/projects_esp_fayyaz/vibration_sensor_sw420/main/main.c:35
+--- 0x400e3340: main_task at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/app_startup.c:208
+--- 0x40085fe9: vPortTaskWrapper at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x400d7c26: task_wdt_timeout_handling at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:434
+--- 0x400d7fe8: task_wdt_isr at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:507
+--- 0x40082e59: _xt_lowint1 at C:/Espressif/frameworks/esp-idf-v5.4.1/components/xtensa/xtensa_vectors.S:1240
+--- 0x4000c04d: _xtos_return_from_exc in ROM
+--- 0x400d66a6: app_main at C:/Espressif/projects_esp_fayyaz/vibration_sensor_sw420/main/main.c:35
+--- 0x400e3340: main_task at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/app_startup.c:208
+--- 0x40085fe9: vPortTaskWrapper at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x400d7c26: task_wdt_timeout_handling at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:434
+--- 0x400d7fe8: task_wdt_isr at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:507
+--- 0x40082e59: _xt_lowint1 at C:/Espressif/frameworks/esp-idf-v5.4.1/components/xtensa/xtensa_vectors.S:1240
+--- 0x4000c04d: _xtos_return_from_exc in ROM
+--- 0x400d66a6: app_main at C:/Espressif/projects_esp_fayyaz/vibration_sensor_sw420/main/main.c:35
+--- 0x400e3340: main_task at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/app_startup.c:208
+--- 0x40085fe9: vPortTaskWrapper at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x400d7c26: task_wdt_timeout_handling at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:434
+--- 0x400d7fe8: task_wdt_isr at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:507
+--- 0x40082e59: _xt_lowint1 at C:/Espressif/frameworks/esp-idf-v5.4.1/components/xtensa/xtensa_vectors.S:1240
+--- 0x4000c04d: _xtos_return_from_exc in ROM
+--- 0x400d66a6: app_main at C:/Espressif/projects_esp_fayyaz/vibration_sensor_sw420/main/main.c:35
+--- 0x400e3340: main_task at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/app_startup.c:208
+--- 0x40085fe9: vPortTaskWrapper at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x400d7c26: task_wdt_timeout_handling at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:434
+--- 0x400d7fe8: task_wdt_isr at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:507
+--- 0x40082e59: _xt_lowint1 at C:/Espressif/frameworks/esp-idf-v5.4.1/components/xtensa/xtensa_vectors.S:1240
+--- 0x4000c04d: _xtos_return_from_exc in ROM
+--- 0x400d66a6: app_main at C:/Espressif/projects_esp_fayyaz/vibration_sensor_sw420/main/main.c:35
+--- 0x400e3340: main_task at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/app_startup.c:208
+--- 0x40085fe9: vPortTaskWrapper at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x400d7c26: task_wdt_timeout_handling at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:434
+--- 0x400d7fe8: task_wdt_isr at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:507
+--- 0x40082e59: _xt_lowint1 at C:/Espressif/frameworks/esp-idf-v5.4.1/components/xtensa/xtensa_vectors.S:1240
+--- 0x4000c04d: _xtos_return_from_exc in ROM
+--- 0x400d66a6: app_main at C:/Espressif/projects_esp_fayyaz/vibration_sensor_sw420/main/main.c:35
+--- 0x400e3340: main_task at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/app_startup.c:208
+--- 0x40085fe9: vPortTaskWrapper at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x400d7c26: task_wdt_timeout_handling at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:434
+--- 0x400d7fe8: task_wdt_isr at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:507
+--- 0x40082e59: _xt_lowint1 at C:/Espressif/frameworks/esp-idf-v5.4.1/components/xtensa/xtensa_vectors.S:1240
+--- 0x4000c04d: _xtos_return_from_exc in ROM
+--- 0x400d66a6: app_main at C:/Espressif/projects_esp_fayyaz/vibration_sensor_sw420/main/main.c:35
+--- 0x400e3340: main_task at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/app_startup.c:208
+--- 0x40085fe9: vPortTaskWrapper at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x400d7c26: task_wdt_timeout_handling at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:434
+--- 0x400d7fe8: task_wdt_isr at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:507
+--- 0x40082e59: _xt_lowint1 at C:/Espressif/frameworks/esp-idf-v5.4.1/components/xtensa/xtensa_vectors.S:1240
+--- 0x4000c04d: _xtos_return_from_exc in ROM
+--- 0x400d66a6: app_main at C:/Espressif/projects_esp_fayyaz/vibration_sensor_sw420/main/main.c:35
+--- 0x400e3340: main_task at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/app_startup.c:208
+--- 0x40085fe9: vPortTaskWrapper at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x400d7c26: task_wdt_timeout_handling at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:434
+--- 0x400d7fe8: task_wdt_isr at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:507
+--- 0x40082e59: _xt_lowint1 at C:/Espressif/frameworks/esp-idf-v5.4.1/components/xtensa/xtensa_vectors.S:1240
+--- 0x4000c04d: _xtos_return_from_exc in ROM
+--- 0x400d66a6: app_main at C:/Espressif/projects_esp_fayyaz/vibration_sensor_sw420/main/main.c:35
+--- 0x400e3340: main_task at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/app_startup.c:208
+--- 0x40085fe9: vPortTaskWrapper at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x400d7c26: task_wdt_timeout_handling at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:434
+--- 0x400d7fe8: task_wdt_isr at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:507
+--- 0x40082e59: _xt_lowint1 at C:/Espressif/frameworks/esp-idf-v5.4.1/components/xtensa/xtensa_vectors.S:1240
+--- 0x4000c04d: _xtos_return_from_exc in ROM
+--- 0x400d66a6: app_main at C:/Espressif/projects_esp_fayyaz/vibration_sensor_sw420/main/main.c:35
+--- 0x400e3340: main_task at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/app_startup.c:208
+--- 0x40085fe9: vPortTaskWrapper at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x400d7c26: task_wdt_timeout_handling at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:434
+--- 0x400d7fe8: task_wdt_isr at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:507
+--- 0x40082e59: _xt_lowint1 at C:/Espressif/frameworks/esp-idf-v5.4.1/components/xtensa/xtensa_vectors.S:1240
+--- 0x4000c04d: _xtos_return_from_exc in ROM
+--- 0x400d66a6: app_main at C:/Espressif/projects_esp_fayyaz/vibration_sensor_sw420/main/main.c:35
+--- 0x400e3340: main_task at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/app_startup.c:208
+--- 0x40085fe9: vPortTaskWrapper at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x400d7c26: task_wdt_timeout_handling at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:434
+--- 0x400d7fe8: task_wdt_isr at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:507
+--- 0x40082e59: _xt_lowint1 at C:/Espressif/frameworks/esp-idf-v5.4.1/components/xtensa/xtensa_vectors.S:1240
+--- 0x400d463f: uart_ll_get_txfifo_len at C:/Espressif/frameworks/esp-idf-v5.4.1/components/hal/esp32/include/hal/uart_ll.h:428
+---  (inlined by) uart_tx_char at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_driver_uart/src/uart_vfs.c:190
+--- 0x400d4d31: uart_write at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_driver_uart/src/uart_vfs.c:238
+--- 0x400d5c0a: esp_vfs_write at C:/Espressif/frameworks/esp-idf-v5.4.1/components/vfs/vfs.c:945 (discriminator 4)
+--- 0x4000bd83: _write_r in ROM
+--- 0x4000182a: write in ROM
+--- 0x400d563d: console_write at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_vfs_console/vfs_console.c:71
+--- 0x400d5c0a: esp_vfs_write at C:/Espressif/frameworks/esp-idf-v5.4.1/components/vfs/vfs.c:945 (discriminator 4)
+--- 0x4000bd83: _write_r in ROM
+--- 0x4000117d: __swrite in ROM
+--- 0x400592fe: __sflush_r in ROM
+--- 0x4005937a: _fflush_r in ROM
+--- 0x400d8e89: __sfvwrite_r at /builds/idf/crosstool-NG/.build/xtensa-esp-elf/src/newlib/newlib/libc/stdio/fvwrite.c:251
+--- 0x400dca5b: __sprint_r at /builds/idf/crosstool-NG/.build/xtensa-esp-elf/src/newlib/newlib/libc/stdio/vfprintf.c:429
+---  (inlined by) __sprint_r at /builds/idf/crosstool-NG/.build/xtensa-esp-elf/src/newlib/newlib/libc/stdio/vfprintf.c:399
+--- 0x400dc472: _vfprintf_r at /builds/idf/crosstool-NG/.build/xtensa-esp-elf/src/newlib/newlib/libc/stdio/vfprintf.c:1774 (discriminator 1)
+--- 0x400d8f31: vprintf at /builds/idf/crosstool-NG/.build/xtensa-esp-elf/src/newlib/newlib/libc/stdio/vprintf.c:34
+--- 0x400e3915: esp_log_writev at C:/Espressif/frameworks/esp-idf-v5.4.1/components/log/src/os/log_write.c:34
+--- 0x4008b4a5: esp_log_write at C:/Espressif/frameworks/esp-idf-v5.4.1/components/log/src/os/log_write.c:44
+--- 0x400d668d: app_main at C:/Espressif/projects_esp_fayyaz/vibration_sensor_sw420/main/main.c:31 (discriminator 1)
+--- 0x400e3340: main_task at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/app_startup.c:208
+--- 0x40085fe9: vPortTaskWrapper at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x400d7c26: task_wdt_timeout_handling at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:434
+--- 0x400d7fe8: task_wdt_isr at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:507
+--- 0x40082e59: _xt_lowint1 at C:/Espressif/frameworks/esp-idf-v5.4.1/components/xtensa/xtensa_vectors.S:1240
+--- 0x4000c04d: _xtos_return_from_exc in ROM
+--- 0x400d66a6: app_main at C:/Espressif/projects_esp_fayyaz/vibration_sensor_sw420/main/main.c:35
+--- 0x400e3340: main_task at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/app_startup.c:208
+--- 0x40085fe9: vPortTaskWrapper at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x400d7c26: task_wdt_timeout_handling at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:434
+--- 0x400d7fe8: task_wdt_isr at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:507
+--- 0x40082e59: _xt_lowint1 at C:/Espressif/frameworks/esp-idf-v5.4.1/components/xtensa/xtensa_vectors.S:1240
+--- 0x4000c04d: _xtos_return_from_exc in ROM
+--- 0x400d66a6: app_main at C:/Espressif/projects_esp_fayyaz/vibration_sensor_sw420/main/main.c:35
+--- 0x400e3340: main_task at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/app_startup.c:208
+--- 0x40085fe9: vPortTaskWrapper at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x400d7c26: task_wdt_timeout_handling at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:434
+--- 0x400d7fe8: task_wdt_isr at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:507
+--- 0x40082e59: _xt_lowint1 at C:/Espressif/frameworks/esp-idf-v5.4.1/components/xtensa/xtensa_vectors.S:1240
+--- 0x4000c04d: _xtos_return_from_exc in ROM
+--- 0x400d66a6: app_main at C:/Espressif/projects_esp_fayyaz/vibration_sensor_sw420/main/main.c:35
+--- 0x400e3340: main_task at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/app_startup.c:208
+--- 0x40085fe9: vPortTaskWrapper at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x400d7c26: task_wdt_timeout_handling at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:434
+--- 0x400d7fe8: task_wdt_isr at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:507
+--- 0x40082e59: _xt_lowint1 at C:/Espressif/frameworks/esp-idf-v5.4.1/components/xtensa/xtensa_vectors.S:1240
+--- 0x4000c04d: _xtos_return_from_exc in ROM
+--- 0x400d66a6: app_main at C:/Espressif/projects_esp_fayyaz/vibration_sensor_sw420/main/main.c:35
+--- 0x400e3340: main_task at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/app_startup.c:208
+--- 0x40085fe9: vPortTaskWrapper at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x400d7c26: task_wdt_timeout_handling at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:434
+--- 0x400d7fe8: task_wdt_isr at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:507
+--- 0x40082e59: _xt_lowint1 at C:/Espressif/frameworks/esp-idf-v5.4.1/components/xtensa/xtensa_vectors.S:1240
+--- 0x4000c04d: _xtos_return_from_exc in ROM
+--- 0x400d66a6: app_main at C:/Espressif/projects_esp_fayyaz/vibration_sensor_sw420/main/main.c:35
+--- 0x400e3340: main_task at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/app_startup.c:208
+--- 0x40085fe9: vPortTaskWrapper at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x400d7c26: task_wdt_timeout_handling at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:434
+--- 0x400d7fe8: task_wdt_isr at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:507
+--- 0x40082e59: _xt_lowint1 at C:/Espressif/frameworks/esp-idf-v5.4.1/components/xtensa/xtensa_vectors.S:1240
+--- 0x4000c04d: _xtos_return_from_exc in ROM
+--- 0x400d66a6: app_main at C:/Espressif/projects_esp_fayyaz/vibration_sensor_sw420/main/main.c:35
+--- 0x400e3340: main_task at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/app_startup.c:208
+--- 0x40085fe9: vPortTaskWrapper at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x400d7c26: task_wdt_timeout_handling at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:434
+--- 0x400d7fe8: task_wdt_isr at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:507
+--- 0x40082e59: _xt_lowint1 at C:/Espressif/frameworks/esp-idf-v5.4.1/components/xtensa/xtensa_vectors.S:1240
+--- 0x4000c04d: _xtos_return_from_exc in ROM
+--- 0x400d66a6: app_main at C:/Espressif/projects_esp_fayyaz/vibration_sensor_sw420/main/main.c:35
+--- 0x400e3340: main_task at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/app_startup.c:208
+--- 0x40085fe9: vPortTaskWrapper at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x400d7c26: task_wdt_timeout_handling at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:434
+--- 0x400d7fe8: task_wdt_isr at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:507
+--- 0x40082e59: _xt_lowint1 at C:/Espressif/frameworks/esp-idf-v5.4.1/components/xtensa/xtensa_vectors.S:1240
+--- 0x4000c04d: _xtos_return_from_exc in ROM
+--- 0x400d66a6: app_main at C:/Espressif/projects_esp_fayyaz/vibration_sensor_sw420/main/main.c:35
+--- 0x400e3340: main_task at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/app_startup.c:208
+--- 0x40085fe9: vPortTaskWrapper at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x400d7c26: task_wdt_timeout_handling at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:434
+--- 0x400d7fe8: task_wdt_isr at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:507
+--- 0x40082e59: _xt_lowint1 at C:/Espressif/frameworks/esp-idf-v5.4.1/components/xtensa/xtensa_vectors.S:1240
+--- 0x4000c04d: _xtos_return_from_exc in ROM
+--- 0x400d6696: app_main at C:/Espressif/projects_esp_fayyaz/vibration_sensor_sw420/main/main.c:32
+--- 0x400e3340: main_task at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/app_startup.c:208
+--- 0x40085fe9: vPortTaskWrapper at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x400d7c26: task_wdt_timeout_handling at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:434
+--- 0x400d7fe8: task_wdt_isr at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:507
+--- 0x40082e59: _xt_lowint1 at C:/Espressif/frameworks/esp-idf-v5.4.1/components/xtensa/xtensa_vectors.S:1240
+--- 0x4000c04d: _xtos_return_from_exc in ROM
+--- 0x400d66a6: app_main at C:/Espressif/projects_esp_fayyaz/vibration_sensor_sw420/main/main.c:35
+--- 0x400e3340: main_task at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/app_startup.c:208
+--- 0x40085fe9: vPortTaskWrapper at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x400d7c26: task_wdt_timeout_handling at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:434
+--- 0x400d7fe8: task_wdt_isr at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:507
+--- 0x40082e59: _xt_lowint1 at C:/Espressif/frameworks/esp-idf-v5.4.1/components/xtensa/xtensa_vectors.S:1240
+--- 0x4000c04d: _xtos_return_from_exc in ROM
+--- 0x400d66a6: app_main at C:/Espressif/projects_esp_fayyaz/vibration_sensor_sw420/main/main.c:35
+--- 0x400e3340: main_task at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/app_startup.c:208
+--- 0x40085fe9: vPortTaskWrapper at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x400d7c26: task_wdt_timeout_handling at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:434
+--- 0x400d7fe8: task_wdt_isr at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:507
+--- 0x40082e59: _xt_lowint1 at C:/Espressif/frameworks/esp-idf-v5.4.1/components/xtensa/xtensa_vectors.S:1240
+--- 0x4000c04d: _xtos_return_from_exc in ROM
+--- 0x400d6696: app_main at C:/Espressif/projects_esp_fayyaz/vibration_sensor_sw420/main/main.c:32
+--- 0x400e3340: main_task at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/app_startup.c:208
+--- 0x40085fe9: vPortTaskWrapper at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x400d7c26: task_wdt_timeout_handling at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:434
+--- 0x400d7fe8: task_wdt_isr at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:507
+--- 0x40082e59: _xt_lowint1 at C:/Espressif/frameworks/esp-idf-v5.4.1/components/xtensa/xtensa_vectors.S:1240
+--- 0x4000c04d: _xtos_return_from_exc in ROM
+--- 0x400d66a6: app_main at C:/Espressif/projects_esp_fayyaz/vibration_sensor_sw420/main/main.c:35
+--- 0x400e3340: main_task at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/app_startup.c:208
+--- 0x40085fe9: vPortTaskWrapper at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x400d7c26: task_wdt_timeout_handling at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:434
+--- 0x400d7fe8: task_wdt_isr at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:507
+--- 0x40082e59: _xt_lowint1 at C:/Espressif/frameworks/esp-idf-v5.4.1/components/xtensa/xtensa_vectors.S:1240
+--- 0x4000c04d: _xtos_return_from_exc in ROM
+--- 0x400d66a6: app_main at C:/Espressif/projects_esp_fayyaz/vibration_sensor_sw420/main/main.c:35
+--- 0x400e3340: main_task at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/app_startup.c:208
+--- 0x40085fe9: vPortTaskWrapper at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x400d7c26: task_wdt_timeout_handling at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:434
+--- 0x400d7fe8: task_wdt_isr at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:507
+--- 0x40082e59: _xt_lowint1 at C:/Espressif/frameworks/esp-idf-v5.4.1/components/xtensa/xtensa_vectors.S:1240
+--- 0x40008541: ets_delay_us in ROM
+--- 0x400d6696: app_main at C:/Espressif/projects_esp_fayyaz/vibration_sensor_sw420/main/main.c:32
+--- 0x400e3340: main_task at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/app_startup.c:208
+--- 0x40085fe9: vPortTaskWrapper at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x400d7c26: task_wdt_timeout_handling at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:434
+--- 0x400d7fe8: task_wdt_isr at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:507
+--- 0x40082e59: _xt_lowint1 at C:/Espressif/frameworks/esp-idf-v5.4.1/components/xtensa/xtensa_vectors.S:1240
+--- 0x4000c04d: _xtos_return_from_exc in ROM
+--- 0x400d66a6: app_main at C:/Espressif/projects_esp_fayyaz/vibration_sensor_sw420/main/main.c:35
+--- 0x400e3340: main_task at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/app_startup.c:208
+--- 0x40085fe9: vPortTaskWrapper at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x400d7c26: task_wdt_timeout_handling at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:434
+--- 0x400d7fe8: task_wdt_isr at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:507
+--- 0x40082e59: _xt_lowint1 at C:/Espressif/frameworks/esp-idf-v5.4.1/components/xtensa/xtensa_vectors.S:1240
+--- 0x4000c04d: _xtos_return_from_exc in ROM
+--- 0x400d66a6: app_main at C:/Espressif/projects_esp_fayyaz/vibration_sensor_sw420/main/main.c:35
+--- 0x400e3340: main_task at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/app_startup.c:208
+--- 0x40085fe9: vPortTaskWrapper at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x400d7c26: task_wdt_timeout_handling at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:434
+--- 0x400d7fe8: task_wdt_isr at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:507
+--- 0x40082e59: _xt_lowint1 at C:/Espressif/frameworks/esp-idf-v5.4.1/components/xtensa/xtensa_vectors.S:1240
+--- 0x4000c04d: _xtos_return_from_exc in ROM
+--- 0x400d66a6: app_main at C:/Espressif/projects_esp_fayyaz/vibration_sensor_sw420/main/main.c:35
+--- 0x400e3340: main_task at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/app_startup.c:208
+--- 0x40085fe9: vPortTaskWrapper at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x400d7c26: task_wdt_timeout_handling at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:434
+--- 0x400d7fe8: task_wdt_isr at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:507
+--- 0x40082e59: _xt_lowint1 at C:/Espressif/frameworks/esp-idf-v5.4.1/components/xtensa/xtensa_vectors.S:1240
+--- 0x4000c04d: _xtos_return_from_exc in ROM
+--- 0x400d66a6: app_main at C:/Espressif/projects_esp_fayyaz/vibration_sensor_sw420/main/main.c:35
+--- 0x400e3340: main_task at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/app_startup.c:208
+--- 0x40085fe9: vPortTaskWrapper at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x400d7c26: task_wdt_timeout_handling at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:434
+--- 0x400d7fe8: task_wdt_isr at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:507
+--- 0x40082e59: _xt_lowint1 at C:/Espressif/frameworks/esp-idf-v5.4.1/components/xtensa/xtensa_vectors.S:1240
+--- 0x4000c04d: _xtos_return_from_exc in ROM
+--- 0x400d66a6: app_main at C:/Espressif/projects_esp_fayyaz/vibration_sensor_sw420/main/main.c:35
+--- 0x400e3340: main_task at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/app_startup.c:208
+--- 0x40085fe9: vPortTaskWrapper at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x400d7c26: task_wdt_timeout_handling at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:434
+--- 0x400d7fe8: task_wdt_isr at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:507
+--- 0x40082e59: _xt_lowint1 at C:/Espressif/frameworks/esp-idf-v5.4.1/components/xtensa/xtensa_vectors.S:1240
+--- 0x4000c04d: _xtos_return_from_exc in ROM
+--- 0x400d66a6: app_main at C:/Espressif/projects_esp_fayyaz/vibration_sensor_sw420/main/main.c:35
+--- 0x400e3340: main_task at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/app_startup.c:208
+--- 0x40085fe9: vPortTaskWrapper at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x400d7c26: task_wdt_timeout_handling at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:434
+--- 0x400d7fe8: task_wdt_isr at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:507
+--- 0x40082e59: _xt_lowint1 at C:/Espressif/frameworks/esp-idf-v5.4.1/components/xtensa/xtensa_vectors.S:1240
+--- 0x4000c04d: _xtos_return_from_exc in ROM
+--- 0x400d66a6: app_main at C:/Espressif/projects_esp_fayyaz/vibration_sensor_sw420/main/main.c:35
+--- 0x400e3340: main_task at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/app_startup.c:208
+--- 0x40085fe9: vPortTaskWrapper at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x400d7c26: task_wdt_timeout_handling at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:434
+--- 0x400d7fe8: task_wdt_isr at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:507
+--- 0x40082e59: _xt_lowint1 at C:/Espressif/frameworks/esp-idf-v5.4.1/components/xtensa/xtensa_vectors.S:1240
+--- 0x4000c04d: _xtos_return_from_exc in ROM
+--- 0x400d66a6: app_main at C:/Espressif/projects_esp_fayyaz/vibration_sensor_sw420/main/main.c:35
+--- 0x400e3340: main_task at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/app_startup.c:208
+--- 0x40085fe9: vPortTaskWrapper at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x400d7c26: task_wdt_timeout_handling at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:434
+--- 0x400d7fe8: task_wdt_isr at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:507
+--- 0x40082e59: _xt_lowint1 at C:/Espressif/frameworks/esp-idf-v5.4.1/components/xtensa/xtensa_vectors.S:1240
+--- 0x4000c04d: _xtos_return_from_exc in ROM
+--- 0x400d66a6: app_main at C:/Espressif/projects_esp_fayyaz/vibration_sensor_sw420/main/main.c:35
+--- 0x400e3340: main_task at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/app_startup.c:208
+--- 0x40085fe9: vPortTaskWrapper at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x400d7c26: task_wdt_timeout_handling at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:434
+--- 0x400d7fe8: task_wdt_isr at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:507
+--- 0x40082e59: _xt_lowint1 at C:/Espressif/frameworks/esp-idf-v5.4.1/components/xtensa/xtensa_vectors.S:1240
+--- 0x4000c04d: _xtos_return_from_exc in ROM
+--- 0x400d66a6: app_main at C:/Espressif/projects_esp_fayyaz/vibration_sensor_sw420/main/main.c:35
+--- 0x400e3340: main_task at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/app_startup.c:208
+--- 0x40085fe9: vPortTaskWrapper at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x400d7c26: task_wdt_timeout_handling at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:434
+--- 0x400d7fe8: task_wdt_isr at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:507
+--- 0x40082e59: _xt_lowint1 at C:/Espressif/frameworks/esp-idf-v5.4.1/components/xtensa/xtensa_vectors.S:1240
+--- 0x4000c04d: _xtos_return_from_exc in ROM
+--- 0x400d66a6: app_main at C:/Espressif/projects_esp_fayyaz/vibration_sensor_sw420/main/main.c:35
+--- 0x400e3340: main_task at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/app_startup.c:208
+--- 0x40085fe9: vPortTaskWrapper at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x400d7c26: task_wdt_timeout_handling at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:434
+--- 0x400d7fe8: task_wdt_isr at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:507
+--- 0x40082e59: _xt_lowint1 at C:/Espressif/frameworks/esp-idf-v5.4.1/components/xtensa/xtensa_vectors.S:1240
+--- 0x4000c04d: _xtos_return_from_exc in ROM
+--- 0x400d66a6: app_main at C:/Espressif/projects_esp_fayyaz/vibration_sensor_sw420/main/main.c:35
+--- 0x400e3340: main_task at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/app_startup.c:208
+--- 0x40085fe9: vPortTaskWrapper at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x400d7c26: task_wdt_timeout_handling at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:434
+--- 0x400d7fe8: task_wdt_isr at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:507
+--- 0x40082e59: _xt_lowint1 at C:/Espressif/frameworks/esp-idf-v5.4.1/components/xtensa/xtensa_vectors.S:1240
+--- 0x4000c04d: _xtos_return_from_exc in ROM
+--- 0x400d66a6: app_main at C:/Espressif/projects_esp_fayyaz/vibration_sensor_sw420/main/main.c:35
+--- 0x400e3340: main_task at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/app_startup.c:208
+--- 0x40085fe9: vPortTaskWrapper at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x400d7c26: task_wdt_timeout_handling at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:434
+--- 0x400d7fe8: task_wdt_isr at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:507
+--- 0x40082e59: _xt_lowint1 at C:/Espressif/frameworks/esp-idf-v5.4.1/components/xtensa/xtensa_vectors.S:1240
+--- 0x4000c04d: _xtos_return_from_exc in ROM
+--- 0x400d66a6: app_main at C:/Espressif/projects_esp_fayyaz/vibration_sensor_sw420/main/main.c:35
+--- 0x400e3340: main_task at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/app_startup.c:208
+--- 0x40085fe9: vPortTaskWrapper at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x400d7c26: task_wdt_timeout_handling at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:434
+--- 0x400d7fe8: task_wdt_isr at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:507
+--- 0x40082e59: _xt_lowint1 at C:/Espressif/frameworks/esp-idf-v5.4.1/components/xtensa/xtensa_vectors.S:1240
+--- 0x4000c04d: _xtos_return_from_exc in ROM
+--- 0x400d66a6: app_main at C:/Espressif/projects_esp_fayyaz/vibration_sensor_sw420/main/main.c:35
+--- 0x400e3340: main_task at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/app_startup.c:208
+--- 0x40085fe9: vPortTaskWrapper at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x400d7c26: task_wdt_timeout_handling at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:434
+--- 0x400d7fe8: task_wdt_isr at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:507
+--- 0x40082e59: _xt_lowint1 at C:/Espressif/frameworks/esp-idf-v5.4.1/components/xtensa/xtensa_vectors.S:1240
+--- 0x400d462d: uart_tx_char at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_driver_uart/src/uart_vfs.c:188
+--- 0x400d4d4f: uart_write at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_driver_uart/src/uart_vfs.c:243
+--- 0x400d5c0a: esp_vfs_write at C:/Espressif/frameworks/esp-idf-v5.4.1/components/vfs/vfs.c:945 (discriminator 4)
+--- 0x4000bd83: _write_r in ROM
+--- 0x4000182a: write in ROM
+--- 0x400d563d: console_write at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_vfs_console/vfs_console.c:71
+--- 0x400d5c0a: esp_vfs_write at C:/Espressif/frameworks/esp-idf-v5.4.1/components/vfs/vfs.c:945 (discriminator 4)
+--- 0x4000bd83: _write_r in ROM
+--- 0x4000117d: __swrite in ROM
+--- 0x400592fe: __sflush_r in ROM
+--- 0x4005937a: _fflush_r in ROM
+--- 0x400d8e89: __sfvwrite_r at /builds/idf/crosstool-NG/.build/xtensa-esp-elf/src/newlib/newlib/libc/stdio/fvwrite.c:251
+--- 0x400dca5b: __sprint_r at /builds/idf/crosstool-NG/.build/xtensa-esp-elf/src/newlib/newlib/libc/stdio/vfprintf.c:429
+---  (inlined by) __sprint_r at /builds/idf/crosstool-NG/.build/xtensa-esp-elf/src/newlib/newlib/libc/stdio/vfprintf.c:399
+--- 0x400dc472: _vfprintf_r at /builds/idf/crosstool-NG/.build/xtensa-esp-elf/src/newlib/newlib/libc/stdio/vfprintf.c:1774 (discriminator 1)
+--- 0x400d8f31: vprintf at /builds/idf/crosstool-NG/.build/xtensa-esp-elf/src/newlib/newlib/libc/stdio/vprintf.c:34
+--- 0x400e3915: esp_log_writev at C:/Espressif/frameworks/esp-idf-v5.4.1/components/log/src/os/log_write.c:34
+--- 0x4008b4a5: esp_log_write at C:/Espressif/frameworks/esp-idf-v5.4.1/components/log/src/os/log_write.c:44
+--- 0x400d668d: app_main at C:/Espressif/projects_esp_fayyaz/vibration_sensor_sw420/main/main.c:31 (discriminator 1)
+--- 0x400e3340: main_task at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/app_startup.c:208
+--- 0x40085fe9: vPortTaskWrapper at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x400d7c26: task_wdt_timeout_handling at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:434
+--- 0x400d7fe8: task_wdt_isr at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:507
+--- 0x40082e59: _xt_lowint1 at C:/Espressif/frameworks/esp-idf-v5.4.1/components/xtensa/xtensa_vectors.S:1240
+--- 0x4000c04d: _xtos_return_from_exc in ROM
+--- 0x400d66a6: app_main at C:/Espressif/projects_esp_fayyaz/vibration_sensor_sw420/main/main.c:35
+--- 0x400e3340: main_task at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/app_startup.c:208
+--- 0x40085fe9: vPortTaskWrapper at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x400d7c26: task_wdt_timeout_handling at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:434
+--- 0x400d7fe8: task_wdt_isr at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:507
+--- 0x40082e59: _xt_lowint1 at C:/Espressif/frameworks/esp-idf-v5.4.1/components/xtensa/xtensa_vectors.S:1240
+--- 0x4000c04d: _xtos_return_from_exc in ROM
+--- 0x400d66a6: app_main at C:/Espressif/projects_esp_fayyaz/vibration_sensor_sw420/main/main.c:35
+--- 0x400e3340: main_task at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/app_startup.c:208
+--- 0x40085fe9: vPortTaskWrapper at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x400d7c26: task_wdt_timeout_handling at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:434
+--- 0x400d7fe8: task_wdt_isr at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:507
+--- 0x40082e59: _xt_lowint1 at C:/Espressif/frameworks/esp-idf-v5.4.1/components/xtensa/xtensa_vectors.S:1240
+--- 0x400d462d: uart_tx_char at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_driver_uart/src/uart_vfs.c:188
+--- 0x400d4d4f: uart_write at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_driver_uart/src/uart_vfs.c:243
+--- 0x400d5c0a: esp_vfs_write at C:/Espressif/frameworks/esp-idf-v5.4.1/components/vfs/vfs.c:945 (discriminator 4)
+--- 0x4000bd83: _write_r in ROM
+--- 0x4000182a: write in ROM
+--- 0x400d563d: console_write at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_vfs_console/vfs_console.c:71
+--- 0x400d5c0a: esp_vfs_write at C:/Espressif/frameworks/esp-idf-v5.4.1/components/vfs/vfs.c:945 (discriminator 4)
+--- 0x4000bd83: _write_r in ROM
+--- 0x4000117d: __swrite in ROM
+--- 0x400592fe: __sflush_r in ROM
+--- 0x4005937a: _fflush_r in ROM
+--- 0x400d8e89: __sfvwrite_r at /builds/idf/crosstool-NG/.build/xtensa-esp-elf/src/newlib/newlib/libc/stdio/fvwrite.c:251
+--- 0x400dca5b: __sprint_r at /builds/idf/crosstool-NG/.build/xtensa-esp-elf/src/newlib/newlib/libc/stdio/vfprintf.c:429
+---  (inlined by) __sprint_r at /builds/idf/crosstool-NG/.build/xtensa-esp-elf/src/newlib/newlib/libc/stdio/vfprintf.c:399
+--- 0x400dc472: _vfprintf_r at /builds/idf/crosstool-NG/.build/xtensa-esp-elf/src/newlib/newlib/libc/stdio/vfprintf.c:1774 (discriminator 1)
+--- 0x400d8f31: vprintf at /builds/idf/crosstool-NG/.build/xtensa-esp-elf/src/newlib/newlib/libc/stdio/vprintf.c:34
+--- 0x400e3915: esp_log_writev at C:/Espressif/frameworks/esp-idf-v5.4.1/components/log/src/os/log_write.c:34
+--- 0x4008b4a5: esp_log_write at C:/Espressif/frameworks/esp-idf-v5.4.1/components/log/src/os/log_write.c:44
+--- 0x400d668d: app_main at C:/Espressif/projects_esp_fayyaz/vibration_sensor_sw420/main/main.c:31 (discriminator 1)
+--- 0x400e3340: main_task at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/app_startup.c:208
+--- 0x40085fe9: vPortTaskWrapper at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x400d7c26: task_wdt_timeout_handling at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:434
+--- 0x400d7fe8: task_wdt_isr at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:507
+--- 0x40082e59: _xt_lowint1 at C:/Espressif/frameworks/esp-idf-v5.4.1/components/xtensa/xtensa_vectors.S:1240
+--- 0x4000c04d: _xtos_return_from_exc in ROM
+--- 0x400d66a6: app_main at C:/Espressif/projects_esp_fayyaz/vibration_sensor_sw420/main/main.c:35
+--- 0x400e3340: main_task at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/app_startup.c:208
+--- 0x40085fe9: vPortTaskWrapper at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x400d7c26: task_wdt_timeout_handling at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:434
+--- 0x400d7fe8: task_wdt_isr at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:507
+--- 0x40082e59: _xt_lowint1 at C:/Espressif/frameworks/esp-idf-v5.4.1/components/xtensa/xtensa_vectors.S:1240
+--- 0x4000c04d: _xtos_return_from_exc in ROM
+--- 0x400d66a6: app_main at C:/Espressif/projects_esp_fayyaz/vibration_sensor_sw420/main/main.c:35
+--- 0x400e3340: main_task at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/app_startup.c:208
+--- 0x40085fe9: vPortTaskWrapper at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x400d7c26: task_wdt_timeout_handling at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:434
+--- 0x400d7fe8: task_wdt_isr at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:507
+--- 0x40082e59: _xt_lowint1 at C:/Espressif/frameworks/esp-idf-v5.4.1/components/xtensa/xtensa_vectors.S:1240
+--- 0x4000c04d: _xtos_return_from_exc in ROM
+--- 0x400d66a6: app_main at C:/Espressif/projects_esp_fayyaz/vibration_sensor_sw420/main/main.c:35
+--- 0x400e3340: main_task at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/app_startup.c:208
+--- 0x40085fe9: vPortTaskWrapper at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x400d7c26: task_wdt_timeout_handling at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:434
+--- 0x400d7fe8: task_wdt_isr at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:507
+--- 0x40082e59: _xt_lowint1 at C:/Espressif/frameworks/esp-idf-v5.4.1/components/xtensa/xtensa_vectors.S:1240
+--- 0x400d4637: uart_ll_get_txfifo_len at C:/Espressif/frameworks/esp-idf-v5.4.1/components/hal/esp32/include/hal/uart_ll.h:428
+---  (inlined by) uart_tx_char at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_driver_uart/src/uart_vfs.c:190
+--- 0x400d4d4f: uart_write at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_driver_uart/src/uart_vfs.c:243
+--- 0x400d5c0a: esp_vfs_write at C:/Espressif/frameworks/esp-idf-v5.4.1/components/vfs/vfs.c:945 (discriminator 4)
+--- 0x4000bd83: _write_r in ROM
+--- 0x4000182a: write in ROM
+--- 0x400d563d: console_write at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_vfs_console/vfs_console.c:71
+--- 0x400d5c0a: esp_vfs_write at C:/Espressif/frameworks/esp-idf-v5.4.1/components/vfs/vfs.c:945 (discriminator 4)
+--- 0x4000bd83: _write_r in ROM
+--- 0x4000117d: __swrite in ROM
+--- 0x400592fe: __sflush_r in ROM
+--- 0x4005937a: _fflush_r in ROM
+--- 0x400d8e89: __sfvwrite_r at /builds/idf/crosstool-NG/.build/xtensa-esp-elf/src/newlib/newlib/libc/stdio/fvwrite.c:251
+--- 0x400dca5b: __sprint_r at /builds/idf/crosstool-NG/.build/xtensa-esp-elf/src/newlib/newlib/libc/stdio/vfprintf.c:429
+---  (inlined by) __sprint_r at /builds/idf/crosstool-NG/.build/xtensa-esp-elf/src/newlib/newlib/libc/stdio/vfprintf.c:399
+--- 0x400dc472: _vfprintf_r at /builds/idf/crosstool-NG/.build/xtensa-esp-elf/src/newlib/newlib/libc/stdio/vfprintf.c:1774 (discriminator 1)
+--- 0x400d8f31: vprintf at /builds/idf/crosstool-NG/.build/xtensa-esp-elf/src/newlib/newlib/libc/stdio/vprintf.c:34
+--- 0x400e3915: esp_log_writev at C:/Espressif/frameworks/esp-idf-v5.4.1/components/log/src/os/log_write.c:34
+--- 0x4008b4a5: esp_log_write at C:/Espressif/frameworks/esp-idf-v5.4.1/components/log/src/os/log_write.c:44
+--- 0x400d668d: app_main at C:/Espressif/projects_esp_fayyaz/vibration_sensor_sw420/main/main.c:31 (discriminator 1)
+--- 0x400e3340: main_task at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/app_startup.c:208
+--- 0x40085fe9: vPortTaskWrapper at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x400d7c26: task_wdt_timeout_handling at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:434
+--- 0x400d7fe8: task_wdt_isr at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:507
+--- 0x40082e59: _xt_lowint1 at C:/Espressif/frameworks/esp-idf-v5.4.1/components/xtensa/xtensa_vectors.S:1240
+--- 0x4000c04d: _xtos_return_from_exc in ROM
+--- 0x400d66a6: app_main at C:/Espressif/projects_esp_fayyaz/vibration_sensor_sw420/main/main.c:35
+--- 0x400e3340: main_task at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/app_startup.c:208
+--- 0x40085fe9: vPortTaskWrapper at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x400d7c26: task_wdt_timeout_handling at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:434
+--- 0x400d7fe8: task_wdt_isr at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:507
+--- 0x40082e59: _xt_lowint1 at C:/Espressif/frameworks/esp-idf-v5.4.1/components/xtensa/xtensa_vectors.S:1240
+--- 0x4000c04d: _xtos_return_from_exc in ROM
+--- 0x400d66a6: app_main at C:/Espressif/projects_esp_fayyaz/vibration_sensor_sw420/main/main.c:35
+--- 0x400e3340: main_task at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/app_startup.c:208
+--- 0x40085fe9: vPortTaskWrapper at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x400d7c26: task_wdt_timeout_handling at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:434
+--- 0x400d7fe8: task_wdt_isr at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:507
+--- 0x40082e59: _xt_lowint1 at C:/Espressif/frameworks/esp-idf-v5.4.1/components/xtensa/xtensa_vectors.S:1240
+--- 0x4000c04d: _xtos_return_from_exc in ROM
+--- 0x400d66a6: app_main at C:/Espressif/projects_esp_fayyaz/vibration_sensor_sw420/main/main.c:35
+--- 0x400e3340: main_task at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/app_startup.c:208
+--- 0x40085fe9: vPortTaskWrapper at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x400d7c26: task_wdt_timeout_handling at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:434
+--- 0x400d7fe8: task_wdt_isr at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:507
+--- 0x40082e59: _xt_lowint1 at C:/Espressif/frameworks/esp-idf-v5.4.1/components/xtensa/xtensa_vectors.S:1240
+--- 0x4000c04d: _xtos_return_from_exc in ROM
+--- 0x400d66a6: app_main at C:/Espressif/projects_esp_fayyaz/vibration_sensor_sw420/main/main.c:35
+--- 0x400e3340: main_task at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/app_startup.c:208
+--- 0x40085fe9: vPortTaskWrapper at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x400d7c26: task_wdt_timeout_handling at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:434
+--- 0x400d7fe8: task_wdt_isr at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:507
+--- 0x40082e59: _xt_lowint1 at C:/Espressif/frameworks/esp-idf-v5.4.1/components/xtensa/xtensa_vectors.S:1240
+--- 0x4000c04d: _xtos_return_from_exc in ROM
+--- 0x400d66a6: app_main at C:/Espressif/projects_esp_fayyaz/vibration_sensor_sw420/main/main.c:35
+--- 0x400e3340: main_task at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/app_startup.c:208
+--- 0x40085fe9: vPortTaskWrapper at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x400d7c26: task_wdt_timeout_handling at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:434
+--- 0x400d7fe8: task_wdt_isr at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:507
+--- 0x40082e59: _xt_lowint1 at C:/Espressif/frameworks/esp-idf-v5.4.1/components/xtensa/xtensa_vectors.S:1240
+--- 0x4000c04d: _xtos_return_from_exc in ROM
+--- 0x400d66a6: app_main at C:/Espressif/projects_esp_fayyaz/vibration_sensor_sw420/main/main.c:35
+--- 0x400e3340: main_task at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/app_startup.c:208
+--- 0x40085fe9: vPortTaskWrapper at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x400d7c26: task_wdt_timeout_handling at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:434
+--- 0x400d7fe8: task_wdt_isr at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:507
+--- 0x40082e59: _xt_lowint1 at C:/Espressif/frameworks/esp-idf-v5.4.1/components/xtensa/xtensa_vectors.S:1240
+--- 0x4000c04d: _xtos_return_from_exc in ROM
+--- 0x400d66a6: app_main at C:/Espressif/projects_esp_fayyaz/vibration_sensor_sw420/main/main.c:35
+--- 0x400e3340: main_task at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/app_startup.c:208
+--- 0x40085fe9: vPortTaskWrapper at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x400d7c26: task_wdt_timeout_handling at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:434
+--- 0x400d7fe8: task_wdt_isr at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:507
+--- 0x40082e59: _xt_lowint1 at C:/Espressif/frameworks/esp-idf-v5.4.1/components/xtensa/xtensa_vectors.S:1240
+--- 0x4000c04d: _xtos_return_from_exc in ROM
+--- 0x400d66a6: app_main at C:/Espressif/projects_esp_fayyaz/vibration_sensor_sw420/main/main.c:35
+--- 0x400e3340: main_task at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/app_startup.c:208
+--- 0x40085fe9: vPortTaskWrapper at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x400d7c26: task_wdt_timeout_handling at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:434
+--- 0x400d7fe8: task_wdt_isr at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:507
+--- 0x40082e59: _xt_lowint1 at C:/Espressif/frameworks/esp-idf-v5.4.1/components/xtensa/xtensa_vectors.S:1240
+--- 0x4000c04d: _xtos_return_from_exc in ROM
+--- 0x400d66a6: app_main at C:/Espressif/projects_esp_fayyaz/vibration_sensor_sw420/main/main.c:35
+--- 0x400e3340: main_task at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/app_startup.c:208
+--- 0x40085fe9: vPortTaskWrapper at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x400d7c26: task_wdt_timeout_handling at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:434
+--- 0x400d7fe8: task_wdt_isr at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:507
+--- 0x40082e59: _xt_lowint1 at C:/Espressif/frameworks/esp-idf-v5.4.1/components/xtensa/xtensa_vectors.S:1240
+--- 0x4000c04d: _xtos_return_from_exc in ROM
+--- 0x400d66a6: app_main at C:/Espressif/projects_esp_fayyaz/vibration_sensor_sw420/main/main.c:35
+--- 0x400e3340: main_task at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/app_startup.c:208
+--- 0x40085fe9: vPortTaskWrapper at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x400d7c26: task_wdt_timeout_handling at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:434
+--- 0x400d7fe8: task_wdt_isr at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:507
+--- 0x40082e59: _xt_lowint1 at C:/Espressif/frameworks/esp-idf-v5.4.1/components/xtensa/xtensa_vectors.S:1240
+--- 0x4000c04d: _xtos_return_from_exc in ROM
+--- 0x400d66a6: app_main at C:/Espressif/projects_esp_fayyaz/vibration_sensor_sw420/main/main.c:35
+--- 0x400e3340: main_task at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/app_startup.c:208
+--- 0x40085fe9: vPortTaskWrapper at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x400d7c26: task_wdt_timeout_handling at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:434
+--- 0x400d7fe8: task_wdt_isr at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:507
+--- 0x40082e59: _xt_lowint1 at C:/Espressif/frameworks/esp-idf-v5.4.1/components/xtensa/xtensa_vectors.S:1240
+--- 0x4000c04d: _xtos_return_from_exc in ROM
+--- 0x400d66a6: app_main at C:/Espressif/projects_esp_fayyaz/vibration_sensor_sw420/main/main.c:35
+--- 0x400e3340: main_task at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/app_startup.c:208
+--- 0x40085fe9: vPortTaskWrapper at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x400d7c26: task_wdt_timeout_handling at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:434
+--- 0x400d7fe8: task_wdt_isr at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:507
+--- 0x40082e59: _xt_lowint1 at C:/Espressif/frameworks/esp-idf-v5.4.1/components/xtensa/xtensa_vectors.S:1240
+--- 0x4000c04d: _xtos_return_from_exc in ROM
+--- 0x400d66a6: app_main at C:/Espressif/projects_esp_fayyaz/vibration_sensor_sw420/main/main.c:35
+--- 0x400e3340: main_task at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/app_startup.c:208
+--- 0x40085fe9: vPortTaskWrapper at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x400d7c26: task_wdt_timeout_handling at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:434
+--- 0x400d7fe8: task_wdt_isr at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:507
+--- 0x40082e59: _xt_lowint1 at C:/Espressif/frameworks/esp-idf-v5.4.1/components/xtensa/xtensa_vectors.S:1240
+--- 0x4000c04d: _xtos_return_from_exc in ROM
+--- 0x400d66a6: app_main at C:/Espressif/projects_esp_fayyaz/vibration_sensor_sw420/main/main.c:35
+--- 0x400e3340: main_task at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/app_startup.c:208
+--- 0x40085fe9: vPortTaskWrapper at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x400d7c26: task_wdt_timeout_handling at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:434
+--- 0x400d7fe8: task_wdt_isr at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:507
+--- 0x40082e59: _xt_lowint1 at C:/Espressif/frameworks/esp-idf-v5.4.1/components/xtensa/xtensa_vectors.S:1240
+--- 0x4000c04d: _xtos_return_from_exc in ROM
+--- 0x400d66a6: app_main at C:/Espressif/projects_esp_fayyaz/vibration_sensor_sw420/main/main.c:35
+--- 0x400e3340: main_task at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/app_startup.c:208
+--- 0x40085fe9: vPortTaskWrapper at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x400d7c26: task_wdt_timeout_handling at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:434
+--- 0x400d7fe8: task_wdt_isr at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:507
+--- 0x40082e59: _xt_lowint1 at C:/Espressif/frameworks/esp-idf-v5.4.1/components/xtensa/xtensa_vectors.S:1240
+--- 0x4000c04d: _xtos_return_from_exc in ROM
+--- 0x400d66a6: app_main at C:/Espressif/projects_esp_fayyaz/vibration_sensor_sw420/main/main.c:35
+--- 0x400e3340: main_task at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/app_startup.c:208
+--- 0x40085fe9: vPortTaskWrapper at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x400d7c26: task_wdt_timeout_handling at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:434
+--- 0x400d7fe8: task_wdt_isr at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:507
+--- 0x40082e59: _xt_lowint1 at C:/Espressif/frameworks/esp-idf-v5.4.1/components/xtensa/xtensa_vectors.S:1240
+--- 0x4000c04d: _xtos_return_from_exc in ROM
+--- 0x400d66a6: app_main at C:/Espressif/projects_esp_fayyaz/vibration_sensor_sw420/main/main.c:35
+--- 0x400e3340: main_task at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/app_startup.c:208
+--- 0x40085fe9: vPortTaskWrapper at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x400d7c26: task_wdt_timeout_handling at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:434
+--- 0x400d7fe8: task_wdt_isr at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:507
+--- 0x40082e59: _xt_lowint1 at C:/Espressif/frameworks/esp-idf-v5.4.1/components/xtensa/xtensa_vectors.S:1240
+--- 0x4000c04d: _xtos_return_from_exc in ROM
+--- 0x400d66a6: app_main at C:/Espressif/projects_esp_fayyaz/vibration_sensor_sw420/main/main.c:35
+--- 0x400e3340: main_task at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/app_startup.c:208
+--- 0x40085fe9: vPortTaskWrapper at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x400d7c26: task_wdt_timeout_handling at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:434
+--- 0x400d7fe8: task_wdt_isr at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:507
+--- 0x40082e59: _xt_lowint1 at C:/Espressif/frameworks/esp-idf-v5.4.1/components/xtensa/xtensa_vectors.S:1240
+--- 0x4000c04d: _xtos_return_from_exc in ROM
+--- 0x400d66a6: app_main at C:/Espressif/projects_esp_fayyaz/vibration_sensor_sw420/main/main.c:35
+--- 0x400e3340: main_task at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/app_startup.c:208
+--- 0x40085fe9: vPortTaskWrapper at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x400d7c26: task_wdt_timeout_handling at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:434
+--- 0x400d7fe8: task_wdt_isr at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:507
+--- 0x40082e59: _xt_lowint1 at C:/Espressif/frameworks/esp-idf-v5.4.1/components/xtensa/xtensa_vectors.S:1240
+--- 0x4000c04d: _xtos_return_from_exc in ROM
+--- 0x400d66a6: app_main at C:/Espressif/projects_esp_fayyaz/vibration_sensor_sw420/main/main.c:35
+--- 0x400e3340: main_task at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/app_startup.c:208
+--- 0x40085fe9: vPortTaskWrapper at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x400d7c26: task_wdt_timeout_handling at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:434
+--- 0x400d7fe8: task_wdt_isr at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:507
+--- 0x40082e59: _xt_lowint1 at C:/Espressif/frameworks/esp-idf-v5.4.1/components/xtensa/xtensa_vectors.S:1240
+--- 0x4000c04d: _xtos_return_from_exc in ROM
+--- 0x400d66a6: app_main at C:/Espressif/projects_esp_fayyaz/vibration_sensor_sw420/main/main.c:35
+--- 0x400e3340: main_task at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/app_startup.c:208
+--- 0x40085fe9: vPortTaskWrapper at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x400d7c26: task_wdt_timeout_handling at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:434
+--- 0x400d7fe8: task_wdt_isr at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:507
+--- 0x40082e59: _xt_lowint1 at C:/Espressif/frameworks/esp-idf-v5.4.1/components/xtensa/xtensa_vectors.S:1240
+--- 0x4000c04d: _xtos_return_from_exc in ROM
+--- 0x400d66a6: app_main at C:/Espressif/projects_esp_fayyaz/vibration_sensor_sw420/main/main.c:35
+--- 0x400e3340: main_task at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/app_startup.c:208
+--- 0x40085fe9: vPortTaskWrapper at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x400d7c26: task_wdt_timeout_handling at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:434
+--- 0x400d7fe8: task_wdt_isr at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:507
+--- 0x40082e59: _xt_lowint1 at C:/Espressif/frameworks/esp-idf-v5.4.1/components/xtensa/xtensa_vectors.S:1240
+--- 0x4000c04d: _xtos_return_from_exc in ROM
+--- 0x400d66a6: app_main at C:/Espressif/projects_esp_fayyaz/vibration_sensor_sw420/main/main.c:35
+--- 0x400e3340: main_task at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/app_startup.c:208
+--- 0x40085fe9: vPortTaskWrapper at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x400d7c26: task_wdt_timeout_handling at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:434
+--- 0x400d7fe8: task_wdt_isr at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:507
+--- 0x40082e59: _xt_lowint1 at C:/Espressif/frameworks/esp-idf-v5.4.1/components/xtensa/xtensa_vectors.S:1240
+--- 0x4000c04d: _xtos_return_from_exc in ROM
+--- 0x400d66a6: app_main at C:/Espressif/projects_esp_fayyaz/vibration_sensor_sw420/main/main.c:35
+--- 0x400e3340: main_task at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/app_startup.c:208
+--- 0x40085fe9: vPortTaskWrapper at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x400d7c26: task_wdt_timeout_handling at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:434
+--- 0x400d7fe8: task_wdt_isr at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:507
+--- 0x40082e59: _xt_lowint1 at C:/Espressif/frameworks/esp-idf-v5.4.1/components/xtensa/xtensa_vectors.S:1240
+--- 0x4000c04d: _xtos_return_from_exc in ROM
+--- 0x400d66a6: app_main at C:/Espressif/projects_esp_fayyaz/vibration_sensor_sw420/main/main.c:35
+--- 0x400e3340: main_task at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/app_startup.c:208
+--- 0x40085fe9: vPortTaskWrapper at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x400d7c26: task_wdt_timeout_handling at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:434
+--- 0x400d7fe8: task_wdt_isr at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:507
+--- 0x40082e59: _xt_lowint1 at C:/Espressif/frameworks/esp-idf-v5.4.1/components/xtensa/xtensa_vectors.S:1240
+--- 0x4000c04d: _xtos_return_from_exc in ROM
+--- 0x400d66a6: app_main at C:/Espressif/projects_esp_fayyaz/vibration_sensor_sw420/main/main.c:35
+--- 0x400e3340: main_task at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/app_startup.c:208
+--- 0x40085fe9: vPortTaskWrapper at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x400d7c26: task_wdt_timeout_handling at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:434
+--- 0x400d7fe8: task_wdt_isr at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:507
+--- 0x40082e59: _xt_lowint1 at C:/Espressif/frameworks/esp-idf-v5.4.1/components/xtensa/xtensa_vectors.S:1240
+--- 0x4000c04d: _xtos_return_from_exc in ROM
+--- 0x400d66a6: app_main at C:/Espressif/projects_esp_fayyaz/vibration_sensor_sw420/main/main.c:35
+--- 0x400e3340: main_task at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/app_startup.c:208
+--- 0x40085fe9: vPortTaskWrapper at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x400d7c26: task_wdt_timeout_handling at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:434
+--- 0x400d7fe8: task_wdt_isr at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:507
+--- 0x40082e59: _xt_lowint1 at C:/Espressif/frameworks/esp-idf-v5.4.1/components/xtensa/xtensa_vectors.S:1240
+--- 0x4000c04d: _xtos_return_from_exc in ROM
+--- 0x400d66a6: app_main at C:/Espressif/projects_esp_fayyaz/vibration_sensor_sw420/main/main.c:35
+--- 0x400e3340: main_task at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/app_startup.c:208
+--- 0x40085fe9: vPortTaskWrapper at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x400d7c26: task_wdt_timeout_handling at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:434
+--- 0x400d7fe8: task_wdt_isr at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:507
+--- 0x40082e59: _xt_lowint1 at C:/Espressif/frameworks/esp-idf-v5.4.1/components/xtensa/xtensa_vectors.S:1240
+--- 0x4000c04d: _xtos_return_from_exc in ROM
+--- 0x400d66a6: app_main at C:/Espressif/projects_esp_fayyaz/vibration_sensor_sw420/main/main.c:35
+--- 0x400e3340: main_task at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/app_startup.c:208
+--- 0x40085fe9: vPortTaskWrapper at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x400d7c26: task_wdt_timeout_handling at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:434
+--- 0x400d7fe8: task_wdt_isr at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:507
+--- 0x40082e59: _xt_lowint1 at C:/Espressif/frameworks/esp-idf-v5.4.1/components/xtensa/xtensa_vectors.S:1240
+--- 0x400d4635: uart_ll_get_txfifo_len at C:/Espressif/frameworks/esp-idf-v5.4.1/components/hal/esp32/include/hal/uart_ll.h:428
+---  (inlined by) uart_tx_char at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_driver_uart/src/uart_vfs.c:190
+--- 0x400d4d4f: uart_write at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_driver_uart/src/uart_vfs.c:243
+--- 0x400d5c0a: esp_vfs_write at C:/Espressif/frameworks/esp-idf-v5.4.1/components/vfs/vfs.c:945 (discriminator 4)
+--- 0x4000bd83: _write_r in ROM
+--- 0x4000182a: write in ROM
+--- 0x400d563d: console_write at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_vfs_console/vfs_console.c:71
+--- 0x400d5c0a: esp_vfs_write at C:/Espressif/frameworks/esp-idf-v5.4.1/components/vfs/vfs.c:945 (discriminator 4)
+--- 0x4000bd83: _write_r in ROM
+--- 0x4000117d: __swrite in ROM
+--- 0x400592fe: __sflush_r in ROM
+--- 0x4005937a: _fflush_r in ROM
+--- 0x400d8e89: __sfvwrite_r at /builds/idf/crosstool-NG/.build/xtensa-esp-elf/src/newlib/newlib/libc/stdio/fvwrite.c:251
+--- 0x400dca5b: __sprint_r at /builds/idf/crosstool-NG/.build/xtensa-esp-elf/src/newlib/newlib/libc/stdio/vfprintf.c:429
+---  (inlined by) __sprint_r at /builds/idf/crosstool-NG/.build/xtensa-esp-elf/src/newlib/newlib/libc/stdio/vfprintf.c:399
+--- 0x400dc472: _vfprintf_r at /builds/idf/crosstool-NG/.build/xtensa-esp-elf/src/newlib/newlib/libc/stdio/vfprintf.c:1774 (discriminator 1)
+--- 0x400d8f31: vprintf at /builds/idf/crosstool-NG/.build/xtensa-esp-elf/src/newlib/newlib/libc/stdio/vprintf.c:34
+--- 0x400e3915: esp_log_writev at C:/Espressif/frameworks/esp-idf-v5.4.1/components/log/src/os/log_write.c:34
+--- 0x4008b4a5: esp_log_write at C:/Espressif/frameworks/esp-idf-v5.4.1/components/log/src/os/log_write.c:44
+--- 0x400d668d: app_main at C:/Espressif/projects_esp_fayyaz/vibration_sensor_sw420/main/main.c:31 (discriminator 1)
+--- 0x400e3340: main_task at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/app_startup.c:208
+--- 0x40085fe9: vPortTaskWrapper at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x400d7c26: task_wdt_timeout_handling at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:434
+--- 0x400d7fe8: task_wdt_isr at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:507
+--- 0x40082e59: _xt_lowint1 at C:/Espressif/frameworks/esp-idf-v5.4.1/components/xtensa/xtensa_vectors.S:1240
+--- 0x4000c04d: _xtos_return_from_exc in ROM
+--- 0x400d6696: app_main at C:/Espressif/projects_esp_fayyaz/vibration_sensor_sw420/main/main.c:32
+--- 0x400e3340: main_task at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/app_startup.c:208
+--- 0x40085fe9: vPortTaskWrapper at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x400d7c26: task_wdt_timeout_handling at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:434
+--- 0x400d7fe8: task_wdt_isr at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:507
+--- 0x40082e59: _xt_lowint1 at C:/Espressif/frameworks/esp-idf-v5.4.1/components/xtensa/xtensa_vectors.S:1240
+--- 0x400d462d: uart_tx_char at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_driver_uart/src/uart_vfs.c:188
+--- 0x400d4d4f: uart_write at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_driver_uart/src/uart_vfs.c:243
+--- 0x400d5c0a: esp_vfs_write at C:/Espressif/frameworks/esp-idf-v5.4.1/components/vfs/vfs.c:945 (discriminator 4)
+--- 0x4000bd83: _write_r in ROM
+--- 0x4000182a: write in ROM
+--- 0x400d563d: console_write at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_vfs_console/vfs_console.c:71
+--- 0x400d5c0a: esp_vfs_write at C:/Espressif/frameworks/esp-idf-v5.4.1/components/vfs/vfs.c:945 (discriminator 4)
+--- 0x4000bd83: _write_r in ROM
+--- 0x4000117d: __swrite in ROM
+--- 0x400592fe: __sflush_r in ROM
+--- 0x4005937a: _fflush_r in ROM
+--- 0x400d8e89: __sfvwrite_r at /builds/idf/crosstool-NG/.build/xtensa-esp-elf/src/newlib/newlib/libc/stdio/fvwrite.c:251
+--- 0x400dca5b: __sprint_r at /builds/idf/crosstool-NG/.build/xtensa-esp-elf/src/newlib/newlib/libc/stdio/vfprintf.c:429
+---  (inlined by) __sprint_r at /builds/idf/crosstool-NG/.build/xtensa-esp-elf/src/newlib/newlib/libc/stdio/vfprintf.c:399
+--- 0x400dc472: _vfprintf_r at /builds/idf/crosstool-NG/.build/xtensa-esp-elf/src/newlib/newlib/libc/stdio/vfprintf.c:1774 (discriminator 1)
+--- 0x400d8f31: vprintf at /builds/idf/crosstool-NG/.build/xtensa-esp-elf/src/newlib/newlib/libc/stdio/vprintf.c:34
+--- 0x400e3915: esp_log_writev at C:/Espressif/frameworks/esp-idf-v5.4.1/components/log/src/os/log_write.c:34
+--- 0x4008b4a5: esp_log_write at C:/Espressif/frameworks/esp-idf-v5.4.1/components/log/src/os/log_write.c:44
+--- 0x400d668d: app_main at C:/Espressif/projects_esp_fayyaz/vibration_sensor_sw420/main/main.c:31 (discriminator 1)
+--- 0x400e3340: main_task at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/app_startup.c:208
+--- 0x40085fe9: vPortTaskWrapper at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x400d7c26: task_wdt_timeout_handling at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:434
+--- 0x400d7fe8: task_wdt_isr at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:507
+--- 0x40082e59: _xt_lowint1 at C:/Espressif/frameworks/esp-idf-v5.4.1/components/xtensa/xtensa_vectors.S:1240
+--- 0x40008544: ets_delay_us in ROM
+--- 0x400d6696: app_main at C:/Espressif/projects_esp_fayyaz/vibration_sensor_sw420/main/main.c:32
+--- 0x400e3340: main_task at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/app_startup.c:208
+--- 0x40085fe9: vPortTaskWrapper at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x400d7c26: task_wdt_timeout_handling at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:434
+--- 0x400d7fe8: task_wdt_isr at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:507
+--- 0x40082e59: _xt_lowint1 at C:/Espressif/frameworks/esp-idf-v5.4.1/components/xtensa/xtensa_vectors.S:1240
+--- 0x400d4645: uart_ll_get_txfifo_len at C:/Espressif/frameworks/esp-idf-v5.4.1/components/hal/esp32/include/hal/uart_ll.h:428
+---  (inlined by) uart_tx_char at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_driver_uart/src/uart_vfs.c:190
+--- 0x400d4d4f: uart_write at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_driver_uart/src/uart_vfs.c:243
+--- 0x400d5c0a: esp_vfs_write at C:/Espressif/frameworks/esp-idf-v5.4.1/components/vfs/vfs.c:945 (discriminator 4)
+--- 0x4000bd83: _write_r in ROM
+--- 0x4000182a: write in ROM
+--- 0x400d563d: console_write at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_vfs_console/vfs_console.c:71
+--- 0x400d5c0a: esp_vfs_write at C:/Espressif/frameworks/esp-idf-v5.4.1/components/vfs/vfs.c:945 (discriminator 4)
+--- 0x4000bd83: _write_r in ROM
+--- 0x4000117d: __swrite in ROM
+--- 0x400592fe: __sflush_r in ROM
+--- 0x4005937a: _fflush_r in ROM
+--- 0x400d8e89: __sfvwrite_r at /builds/idf/crosstool-NG/.build/xtensa-esp-elf/src/newlib/newlib/libc/stdio/fvwrite.c:251
+--- 0x400dca5b: __sprint_r at /builds/idf/crosstool-NG/.build/xtensa-esp-elf/src/newlib/newlib/libc/stdio/vfprintf.c:429
+---  (inlined by) __sprint_r at /builds/idf/crosstool-NG/.build/xtensa-esp-elf/src/newlib/newlib/libc/stdio/vfprintf.c:399
+--- 0x400dc472: _vfprintf_r at /builds/idf/crosstool-NG/.build/xtensa-esp-elf/src/newlib/newlib/libc/stdio/vfprintf.c:1774 (discriminator 1)
+--- 0x400d8f31: vprintf at /builds/idf/crosstool-NG/.build/xtensa-esp-elf/src/newlib/newlib/libc/stdio/vprintf.c:34
+--- 0x400e3915: esp_log_writev at C:/Espressif/frameworks/esp-idf-v5.4.1/components/log/src/os/log_write.c:34
+--- 0x4008b4a5: esp_log_write at C:/Espressif/frameworks/esp-idf-v5.4.1/components/log/src/os/log_write.c:44
+--- 0x400d668d: app_main at C:/Espressif/projects_esp_fayyaz/vibration_sensor_sw420/main/main.c:31 (discriminator 1)
+--- 0x400e3340: main_task at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/app_startup.c:208
+--- 0x40085fe9: vPortTaskWrapper at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x400d7c26: task_wdt_timeout_handling at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:434
+--- 0x400d7fe8: task_wdt_isr at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:507
+--- 0x40082e59: _xt_lowint1 at C:/Espressif/frameworks/esp-idf-v5.4.1/components/xtensa/xtensa_vectors.S:1240
+--- 0x400d4637: uart_ll_get_txfifo_len at C:/Espressif/frameworks/esp-idf-v5.4.1/components/hal/esp32/include/hal/uart_ll.h:428
+---  (inlined by) uart_tx_char at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_driver_uart/src/uart_vfs.c:190
+--- 0x400d4d4f: uart_write at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_driver_uart/src/uart_vfs.c:243
+--- 0x400d5c0a: esp_vfs_write at C:/Espressif/frameworks/esp-idf-v5.4.1/components/vfs/vfs.c:945 (discriminator 4)
+--- 0x4000bd83: _write_r in ROM
+--- 0x4000182a: write in ROM
+--- 0x400d563d: console_write at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_vfs_console/vfs_console.c:71
+--- 0x400d5c0a: esp_vfs_write at C:/Espressif/frameworks/esp-idf-v5.4.1/components/vfs/vfs.c:945 (discriminator 4)
+--- 0x4000bd83: _write_r in ROM
+--- 0x4000117d: __swrite in ROM
+--- 0x400592fe: __sflush_r in ROM
+--- 0x4005937a: _fflush_r in ROM
+--- 0x400d8e89: __sfvwrite_r at /builds/idf/crosstool-NG/.build/xtensa-esp-elf/src/newlib/newlib/libc/stdio/fvwrite.c:251
+--- 0x400dca5b: __sprint_r at /builds/idf/crosstool-NG/.build/xtensa-esp-elf/src/newlib/newlib/libc/stdio/vfprintf.c:429
+---  (inlined by) __sprint_r at /builds/idf/crosstool-NG/.build/xtensa-esp-elf/src/newlib/newlib/libc/stdio/vfprintf.c:399
+--- 0x400dc472: _vfprintf_r at /builds/idf/crosstool-NG/.build/xtensa-esp-elf/src/newlib/newlib/libc/stdio/vfprintf.c:1774 (discriminator 1)
+--- 0x400d8f31: vprintf at /builds/idf/crosstool-NG/.build/xtensa-esp-elf/src/newlib/newlib/libc/stdio/vprintf.c:34
+--- 0x400e3915: esp_log_writev at C:/Espressif/frameworks/esp-idf-v5.4.1/components/log/src/os/log_write.c:34
+--- 0x4008b4a5: esp_log_write at C:/Espressif/frameworks/esp-idf-v5.4.1/components/log/src/os/log_write.c:44
+--- 0x400d668d: app_main at C:/Espressif/projects_esp_fayyaz/vibration_sensor_sw420/main/main.c:31 (discriminator 1)
+--- 0x400e3340: main_task at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/app_startup.c:208
+--- 0x40085fe9: vPortTaskWrapper at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x400d7c26: task_wdt_timeout_handling at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:434
+--- 0x400d7fe8: task_wdt_isr at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:507
+--- 0x40082e59: _xt_lowint1 at C:/Espressif/frameworks/esp-idf-v5.4.1/components/xtensa/xtensa_vectors.S:1240
+--- 0x40008547: ets_delay_us in ROM
+--- 0x400d6696: app_main at C:/Espressif/projects_esp_fayyaz/vibration_sensor_sw420/main/main.c:32
+--- 0x400e3340: main_task at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/app_startup.c:208
+--- 0x40085fe9: vPortTaskWrapper at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x400d7c26: task_wdt_timeout_handling at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:434
+--- 0x400d7fe8: task_wdt_isr at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:507
+--- 0x40082e59: _xt_lowint1 at C:/Espressif/frameworks/esp-idf-v5.4.1/components/xtensa/xtensa_vectors.S:1240
+--- 0x4000c04d: _xtos_return_from_exc in ROM
+--- 0x400d66a6: app_main at C:/Espressif/projects_esp_fayyaz/vibration_sensor_sw420/main/main.c:35
+--- 0x400e3340: main_task at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/app_startup.c:208
+--- 0x40085fe9: vPortTaskWrapper at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x400d7c26: task_wdt_timeout_handling at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:434
+--- 0x400d7fe8: task_wdt_isr at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:507
+--- 0x40082e59: _xt_lowint1 at C:/Espressif/frameworks/esp-idf-v5.4.1/components/xtensa/xtensa_vectors.S:1240
+--- 0x4000c04d: _xtos_return_from_exc in ROM
+--- 0x400d66a6: app_main at C:/Espressif/projects_esp_fayyaz/vibration_sensor_sw420/main/main.c:35
+--- 0x400e3340: main_task at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/app_startup.c:208
+--- 0x40085fe9: vPortTaskWrapper at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x400d7c26: task_wdt_timeout_handling at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:434
+--- 0x400d7fe8: task_wdt_isr at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:507
+--- 0x40082e59: _xt_lowint1 at C:/Espressif/frameworks/esp-idf-v5.4.1/components/xtensa/xtensa_vectors.S:1240
+--- 0x4000c04d: _xtos_return_from_exc in ROM
+--- 0x400d66a6: app_main at C:/Espressif/projects_esp_fayyaz/vibration_sensor_sw420/main/main.c:35
+--- 0x400e3340: main_task at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/app_startup.c:208
+--- 0x40085fe9: vPortTaskWrapper at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x400d7c26: task_wdt_timeout_handling at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:434
+--- 0x400d7fe8: task_wdt_isr at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:507
+--- 0x40082e59: _xt_lowint1 at C:/Espressif/frameworks/esp-idf-v5.4.1/components/xtensa/xtensa_vectors.S:1240
+--- 0x4000c04d: _xtos_return_from_exc in ROM
+--- 0x400d66a6: app_main at C:/Espressif/projects_esp_fayyaz/vibration_sensor_sw420/main/main.c:35
+--- 0x400e3340: main_task at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/app_startup.c:208
+--- 0x40085fe9: vPortTaskWrapper at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x400d7c26: task_wdt_timeout_handling at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:434
+--- 0x400d7fe8: task_wdt_isr at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:507
+--- 0x40082e59: _xt_lowint1 at C:/Espressif/frameworks/esp-idf-v5.4.1/components/xtensa/xtensa_vectors.S:1240
+--- 0x400d4645: uart_ll_get_txfifo_len at C:/Espressif/frameworks/esp-idf-v5.4.1/components/hal/esp32/include/hal/uart_ll.h:428
+---  (inlined by) uart_tx_char at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_driver_uart/src/uart_vfs.c:190
+--- 0x400d4d4f: uart_write at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_driver_uart/src/uart_vfs.c:243
+--- 0x400d5c0a: esp_vfs_write at C:/Espressif/frameworks/esp-idf-v5.4.1/components/vfs/vfs.c:945 (discriminator 4)
+--- 0x4000bd83: _write_r in ROM
+--- 0x4000182a: write in ROM
+--- 0x400d563d: console_write at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_vfs_console/vfs_console.c:71
+--- 0x400d5c0a: esp_vfs_write at C:/Espressif/frameworks/esp-idf-v5.4.1/components/vfs/vfs.c:945 (discriminator 4)
+--- 0x4000bd83: _write_r in ROM
+--- 0x4000117d: __swrite in ROM
+--- 0x400592fe: __sflush_r in ROM
+--- 0x4005937a: _fflush_r in ROM
+--- 0x400d8e89: __sfvwrite_r at /builds/idf/crosstool-NG/.build/xtensa-esp-elf/src/newlib/newlib/libc/stdio/fvwrite.c:251
+--- 0x400dca5b: __sprint_r at /builds/idf/crosstool-NG/.build/xtensa-esp-elf/src/newlib/newlib/libc/stdio/vfprintf.c:429
+---  (inlined by) __sprint_r at /builds/idf/crosstool-NG/.build/xtensa-esp-elf/src/newlib/newlib/libc/stdio/vfprintf.c:399
+--- 0x400dc472: _vfprintf_r at /builds/idf/crosstool-NG/.build/xtensa-esp-elf/src/newlib/newlib/libc/stdio/vfprintf.c:1774 (discriminator 1)
+--- 0x400d8f31: vprintf at /builds/idf/crosstool-NG/.build/xtensa-esp-elf/src/newlib/newlib/libc/stdio/vprintf.c:34
+--- 0x400e3915: esp_log_writev at C:/Espressif/frameworks/esp-idf-v5.4.1/components/log/src/os/log_write.c:34
+--- 0x4008b4a5: esp_log_write at C:/Espressif/frameworks/esp-idf-v5.4.1/components/log/src/os/log_write.c:44
+--- 0x400d668d: app_main at C:/Espressif/projects_esp_fayyaz/vibration_sensor_sw420/main/main.c:31 (discriminator 1)
+--- 0x400e3340: main_task at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/app_startup.c:208
+--- 0x40085fe9: vPortTaskWrapper at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x400d7c26: task_wdt_timeout_handling at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:434
+--- 0x400d7fe8: task_wdt_isr at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:507
+--- 0x40082e59: _xt_lowint1 at C:/Espressif/frameworks/esp-idf-v5.4.1/components/xtensa/xtensa_vectors.S:1240
+--- 0x4000c053: xthal_get_ccount in ROM
+--- 0x40008544: ets_delay_us in ROM
+--- 0x400d66a6: app_main at C:/Espressif/projects_esp_fayyaz/vibration_sensor_sw420/main/main.c:35
+--- 0x400e3340: main_task at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/app_startup.c:208
+--- 0x40085fe9: vPortTaskWrapper at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x400d7c26: task_wdt_timeout_handling at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:434
+--- 0x400d7fe8: task_wdt_isr at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:507
+--- 0x40082e59: _xt_lowint1 at C:/Espressif/frameworks/esp-idf-v5.4.1/components/xtensa/xtensa_vectors.S:1240
+--- 0x400d4630: uart_ll_get_txfifo_len at C:/Espressif/frameworks/esp-idf-v5.4.1/components/hal/esp32/include/hal/uart_ll.h:428
+---  (inlined by) uart_tx_char at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_driver_uart/src/uart_vfs.c:190
+--- 0x400d4d4f: uart_write at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_driver_uart/src/uart_vfs.c:243
+--- 0x400d5c0a: esp_vfs_write at C:/Espressif/frameworks/esp-idf-v5.4.1/components/vfs/vfs.c:945 (discriminator 4)
+--- 0x4000bd83: _write_r in ROM
+--- 0x4000182a: write in ROM
+--- 0x400d563d: console_write at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_vfs_console/vfs_console.c:71
+--- 0x400d5c0a: esp_vfs_write at C:/Espressif/frameworks/esp-idf-v5.4.1/components/vfs/vfs.c:945 (discriminator 4)
+--- 0x4000bd83: _write_r in ROM
+--- 0x4000117d: __swrite in ROM
+--- 0x400592fe: __sflush_r in ROM
+--- 0x4005937a: _fflush_r in ROM
+--- 0x400d8e89: __sfvwrite_r at /builds/idf/crosstool-NG/.build/xtensa-esp-elf/src/newlib/newlib/libc/stdio/fvwrite.c:251
+--- 0x400dca5b: __sprint_r at /builds/idf/crosstool-NG/.build/xtensa-esp-elf/src/newlib/newlib/libc/stdio/vfprintf.c:429
+---  (inlined by) __sprint_r at /builds/idf/crosstool-NG/.build/xtensa-esp-elf/src/newlib/newlib/libc/stdio/vfprintf.c:399
+--- 0x400dc472: _vfprintf_r at /builds/idf/crosstool-NG/.build/xtensa-esp-elf/src/newlib/newlib/libc/stdio/vfprintf.c:1774 (discriminator 1)
+--- 0x400d8f31: vprintf at /builds/idf/crosstool-NG/.build/xtensa-esp-elf/src/newlib/newlib/libc/stdio/vprintf.c:34
+--- 0x400e3915: esp_log_writev at C:/Espressif/frameworks/esp-idf-v5.4.1/components/log/src/os/log_write.c:34
+--- 0x4008b4a5: esp_log_write at C:/Espressif/frameworks/esp-idf-v5.4.1/components/log/src/os/log_write.c:44
+--- 0x400d668d: app_main at C:/Espressif/projects_esp_fayyaz/vibration_sensor_sw420/main/main.c:31 (discriminator 1)
+--- 0x400e3340: main_task at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/app_startup.c:208
+--- 0x40085fe9: vPortTaskWrapper at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x400d7c26: task_wdt_timeout_handling at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:434
+--- 0x400d7fe8: task_wdt_isr at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:507
+--- 0x40082e59: _xt_lowint1 at C:/Espressif/frameworks/esp-idf-v5.4.1/components/xtensa/xtensa_vectors.S:1240
+--- 0x400d4645: uart_ll_get_txfifo_len at C:/Espressif/frameworks/esp-idf-v5.4.1/components/hal/esp32/include/hal/uart_ll.h:428
+---  (inlined by) uart_tx_char at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_driver_uart/src/uart_vfs.c:190
+--- 0x400d4d4f: uart_write at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_driver_uart/src/uart_vfs.c:243
+--- 0x400d5c0a: esp_vfs_write at C:/Espressif/frameworks/esp-idf-v5.4.1/components/vfs/vfs.c:945 (discriminator 4)
+--- 0x4000bd83: _write_r in ROM
+--- 0x4000182a: write in ROM
+--- 0x400d563d: console_write at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_vfs_console/vfs_console.c:71
+--- 0x400d5c0a: esp_vfs_write at C:/Espressif/frameworks/esp-idf-v5.4.1/components/vfs/vfs.c:945 (discriminator 4)
+--- 0x4000bd83: _write_r in ROM
+--- 0x4000117d: __swrite in ROM
+--- 0x400592fe: __sflush_r in ROM
+--- 0x4005937a: _fflush_r in ROM
+--- 0x400d8e89: __sfvwrite_r at /builds/idf/crosstool-NG/.build/xtensa-esp-elf/src/newlib/newlib/libc/stdio/fvwrite.c:251
+--- 0x400dca5b: __sprint_r at /builds/idf/crosstool-NG/.build/xtensa-esp-elf/src/newlib/newlib/libc/stdio/vfprintf.c:429
+---  (inlined by) __sprint_r at /builds/idf/crosstool-NG/.build/xtensa-esp-elf/src/newlib/newlib/libc/stdio/vfprintf.c:399
+--- 0x400dc472: _vfprintf_r at /builds/idf/crosstool-NG/.build/xtensa-esp-elf/src/newlib/newlib/libc/stdio/vfprintf.c:1774 (discriminator 1)
+--- 0x400d8f31: vprintf at /builds/idf/crosstool-NG/.build/xtensa-esp-elf/src/newlib/newlib/libc/stdio/vprintf.c:34
+--- 0x400e3915: esp_log_writev at C:/Espressif/frameworks/esp-idf-v5.4.1/components/log/src/os/log_write.c:34
+--- 0x4008b4a5: esp_log_write at C:/Espressif/frameworks/esp-idf-v5.4.1/components/log/src/os/log_write.c:44
+--- 0x400d668d: app_main at C:/Espressif/projects_esp_fayyaz/vibration_sensor_sw420/main/main.c:31 (discriminator 1)
+--- 0x400e3340: main_task at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/app_startup.c:208
+--- 0x40085fe9: vPortTaskWrapper at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x400d7c26: task_wdt_timeout_handling at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:434
+--- 0x400d7fe8: task_wdt_isr at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:507
+--- 0x40082e59: _xt_lowint1 at C:/Espressif/frameworks/esp-idf-v5.4.1/components/xtensa/xtensa_vectors.S:1240
+--- 0x400d463c: uart_ll_get_txfifo_len at C:/Espressif/frameworks/esp-idf-v5.4.1/components/hal/esp32/include/hal/uart_ll.h:428
+---  (inlined by) uart_tx_char at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_driver_uart/src/uart_vfs.c:190
+--- 0x400d4d4f: uart_write at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_driver_uart/src/uart_vfs.c:243
+--- 0x400d5c0a: esp_vfs_write at C:/Espressif/frameworks/esp-idf-v5.4.1/components/vfs/vfs.c:945 (discriminator 4)
+--- 0x4000bd83: _write_r in ROM
+--- 0x4000182a: write in ROM
+--- 0x400d563d: console_write at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_vfs_console/vfs_console.c:71
+--- 0x400d5c0a: esp_vfs_write at C:/Espressif/frameworks/esp-idf-v5.4.1/components/vfs/vfs.c:945 (discriminator 4)
+--- 0x4000bd83: _write_r in ROM
+--- 0x4000117d: __swrite in ROM
+--- 0x400592fe: __sflush_r in ROM
+--- 0x4005937a: _fflush_r in ROM
+--- 0x400d8e89: __sfvwrite_r at /builds/idf/crosstool-NG/.build/xtensa-esp-elf/src/newlib/newlib/libc/stdio/fvwrite.c:251
+--- 0x400dca5b: __sprint_r at /builds/idf/crosstool-NG/.build/xtensa-esp-elf/src/newlib/newlib/libc/stdio/vfprintf.c:429
+---  (inlined by) __sprint_r at /builds/idf/crosstool-NG/.build/xtensa-esp-elf/src/newlib/newlib/libc/stdio/vfprintf.c:399
+--- 0x400dc472: _vfprintf_r at /builds/idf/crosstool-NG/.build/xtensa-esp-elf/src/newlib/newlib/libc/stdio/vfprintf.c:1774 (discriminator 1)
+--- 0x400d8f31: vprintf at /builds/idf/crosstool-NG/.build/xtensa-esp-elf/src/newlib/newlib/libc/stdio/vprintf.c:34
+--- 0x400e3915: esp_log_writev at C:/Espressif/frameworks/esp-idf-v5.4.1/components/log/src/os/log_write.c:34
+--- 0x4008b4a5: esp_log_write at C:/Espressif/frameworks/esp-idf-v5.4.1/components/log/src/os/log_write.c:44
+--- 0x400d668d: app_main at C:/Espressif/projects_esp_fayyaz/vibration_sensor_sw420/main/main.c:31 (discriminator 1)
+--- 0x400e3340: main_task at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/app_startup.c:208
+--- 0x40085fe9: vPortTaskWrapper at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x400d7c26: task_wdt_timeout_handling at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:434
+--- 0x400d7fe8: task_wdt_isr at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:507
+--- 0x40082e59: _xt_lowint1 at C:/Espressif/frameworks/esp-idf-v5.4.1/components/xtensa/xtensa_vectors.S:1240
+--- 0x4000c04d: _xtos_return_from_exc in ROM
+--- 0x400d6696: app_main at C:/Espressif/projects_esp_fayyaz/vibration_sensor_sw420/main/main.c:32
+--- 0x400e3340: main_task at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/app_startup.c:208
+--- 0x40085fe9: vPortTaskWrapper at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x400d7c26: task_wdt_timeout_handling at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:434
+--- 0x400d7fe8: task_wdt_isr at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:507
+--- 0x40082e59: _xt_lowint1 at C:/Espressif/frameworks/esp-idf-v5.4.1/components/xtensa/xtensa_vectors.S:1240
+--- 0x400d4635: uart_ll_get_txfifo_len at C:/Espressif/frameworks/esp-idf-v5.4.1/components/hal/esp32/include/hal/uart_ll.h:428
+---  (inlined by) uart_tx_char at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_driver_uart/src/uart_vfs.c:190
+--- 0x400d4d4f: uart_write at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_driver_uart/src/uart_vfs.c:243
+--- 0x400d5c0a: esp_vfs_write at C:/Espressif/frameworks/esp-idf-v5.4.1/components/vfs/vfs.c:945 (discriminator 4)
+--- 0x4000bd83: _write_r in ROM
+--- 0x4000182a: write in ROM
+--- 0x400d563d: console_write at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_vfs_console/vfs_console.c:71
+--- 0x400d5c0a: esp_vfs_write at C:/Espressif/frameworks/esp-idf-v5.4.1/components/vfs/vfs.c:945 (discriminator 4)
+--- 0x4000bd83: _write_r in ROM
+--- 0x4000117d: __swrite in ROM
+--- 0x400592fe: __sflush_r in ROM
+--- 0x4005937a: _fflush_r in ROM
+--- 0x400d8e89: __sfvwrite_r at /builds/idf/crosstool-NG/.build/xtensa-esp-elf/src/newlib/newlib/libc/stdio/fvwrite.c:251
+--- 0x400dca5b: __sprint_r at /builds/idf/crosstool-NG/.build/xtensa-esp-elf/src/newlib/newlib/libc/stdio/vfprintf.c:429
+---  (inlined by) __sprint_r at /builds/idf/crosstool-NG/.build/xtensa-esp-elf/src/newlib/newlib/libc/stdio/vfprintf.c:399
+--- 0x400dc472: _vfprintf_r at /builds/idf/crosstool-NG/.build/xtensa-esp-elf/src/newlib/newlib/libc/stdio/vfprintf.c:1774 (discriminator 1)
+--- 0x400d8f31: vprintf at /builds/idf/crosstool-NG/.build/xtensa-esp-elf/src/newlib/newlib/libc/stdio/vprintf.c:34
+--- 0x400e3915: esp_log_writev at C:/Espressif/frameworks/esp-idf-v5.4.1/components/log/src/os/log_write.c:34
+--- 0x4008b4a5: esp_log_write at C:/Espressif/frameworks/esp-idf-v5.4.1/components/log/src/os/log_write.c:44
+--- 0x400d668d: app_main at C:/Espressif/projects_esp_fayyaz/vibration_sensor_sw420/main/main.c:31 (discriminator 1)
+--- 0x400e3340: main_task at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/app_startup.c:208
+--- 0x40085fe9: vPortTaskWrapper at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x400d7c26: task_wdt_timeout_handling at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:434
+--- 0x400d7fe8: task_wdt_isr at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:507
+--- 0x40082e59: _xt_lowint1 at C:/Espressif/frameworks/esp-idf-v5.4.1/components/xtensa/xtensa_vectors.S:1240
+--- 0x400d4630: uart_ll_get_txfifo_len at C:/Espressif/frameworks/esp-idf-v5.4.1/components/hal/esp32/include/hal/uart_ll.h:428
+---  (inlined by) uart_tx_char at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_driver_uart/src/uart_vfs.c:190
+--- 0x400d4d31: uart_write at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_driver_uart/src/uart_vfs.c:238
+--- 0x400d5c0a: esp_vfs_write at C:/Espressif/frameworks/esp-idf-v5.4.1/components/vfs/vfs.c:945 (discriminator 4)
+--- 0x4000bd83: _write_r in ROM
+--- 0x4000182a: write in ROM
+--- 0x400d563d: console_write at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_vfs_console/vfs_console.c:71
+--- 0x400d5c0a: esp_vfs_write at C:/Espressif/frameworks/esp-idf-v5.4.1/components/vfs/vfs.c:945 (discriminator 4)
+--- 0x4000bd83: _write_r in ROM
+--- 0x4000117d: __swrite in ROM
+--- 0x400592fe: __sflush_r in ROM
+--- 0x4005937a: _fflush_r in ROM
+--- 0x400d8e89: __sfvwrite_r at /builds/idf/crosstool-NG/.build/xtensa-esp-elf/src/newlib/newlib/libc/stdio/fvwrite.c:251
+--- 0x400dca5b: __sprint_r at /builds/idf/crosstool-NG/.build/xtensa-esp-elf/src/newlib/newlib/libc/stdio/vfprintf.c:429
+---  (inlined by) __sprint_r at /builds/idf/crosstool-NG/.build/xtensa-esp-elf/src/newlib/newlib/libc/stdio/vfprintf.c:399
+--- 0x400dc472: _vfprintf_r at /builds/idf/crosstool-NG/.build/xtensa-esp-elf/src/newlib/newlib/libc/stdio/vfprintf.c:1774 (discriminator 1)
+--- 0x400d8f31: vprintf at /builds/idf/crosstool-NG/.build/xtensa-esp-elf/src/newlib/newlib/libc/stdio/vprintf.c:34
+--- 0x400e3915: esp_log_writev at C:/Espressif/frameworks/esp-idf-v5.4.1/components/log/src/os/log_write.c:34
+--- 0x4008b4a5: esp_log_write at C:/Espressif/frameworks/esp-idf-v5.4.1/components/log/src/os/log_write.c:44
+--- 0x400d668d: app_main at C:/Espressif/projects_esp_fayyaz/vibration_sensor_sw420/main/main.c:31 (discriminator 1)
+--- 0x400e3340: main_task at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/app_startup.c:208
+--- 0x40085fe9: vPortTaskWrapper at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x400d7c26: task_wdt_timeout_handling at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:434
+--- 0x400d7fe8: task_wdt_isr at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:507
+--- 0x40082e59: _xt_lowint1 at C:/Espressif/frameworks/esp-idf-v5.4.1/components/xtensa/xtensa_vectors.S:1240
+--- 0x4000c04d: _xtos_return_from_exc in ROM
+--- 0x400d66a6: app_main at C:/Espressif/projects_esp_fayyaz/vibration_sensor_sw420/main/main.c:35
+--- 0x400e3340: main_task at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/app_startup.c:208
+--- 0x40085fe9: vPortTaskWrapper at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x400d7c26: task_wdt_timeout_handling at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:434
+--- 0x400d7fe8: task_wdt_isr at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:507
+--- 0x40082e59: _xt_lowint1 at C:/Espressif/frameworks/esp-idf-v5.4.1/components/xtensa/xtensa_vectors.S:1240
+--- 0x4000c04d: _xtos_return_from_exc in ROM
+--- 0x400d66a6: app_main at C:/Espressif/projects_esp_fayyaz/vibration_sensor_sw420/main/main.c:35
+--- 0x400e3340: main_task at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/app_startup.c:208
+--- 0x40085fe9: vPortTaskWrapper at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x400d7c26: task_wdt_timeout_handling at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:434
+--- 0x400d7fe8: task_wdt_isr at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:507
+--- 0x40082e59: _xt_lowint1 at C:/Espressif/frameworks/esp-idf-v5.4.1/components/xtensa/xtensa_vectors.S:1240
+--- 0x400d4645: uart_ll_get_txfifo_len at C:/Espressif/frameworks/esp-idf-v5.4.1/components/hal/esp32/include/hal/uart_ll.h:428
+---  (inlined by) uart_tx_char at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_driver_uart/src/uart_vfs.c:190
+--- 0x400d4d4f: uart_write at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_driver_uart/src/uart_vfs.c:243
+--- 0x400d5c0a: esp_vfs_write at C:/Espressif/frameworks/esp-idf-v5.4.1/components/vfs/vfs.c:945 (discriminator 4)
+--- 0x4000bd83: _write_r in ROM
+--- 0x4000182a: write in ROM
+--- 0x400d563d: console_write at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_vfs_console/vfs_console.c:71
+--- 0x400d5c0a: esp_vfs_write at C:/Espressif/frameworks/esp-idf-v5.4.1/components/vfs/vfs.c:945 (discriminator 4)
+--- 0x4000bd83: _write_r in ROM
+--- 0x4000117d: __swrite in ROM
+--- 0x400592fe: __sflush_r in ROM
+--- 0x4005937a: _fflush_r in ROM
+--- 0x400d8e89: __sfvwrite_r at /builds/idf/crosstool-NG/.build/xtensa-esp-elf/src/newlib/newlib/libc/stdio/fvwrite.c:251
+--- 0x400dca5b: __sprint_r at /builds/idf/crosstool-NG/.build/xtensa-esp-elf/src/newlib/newlib/libc/stdio/vfprintf.c:429
+---  (inlined by) __sprint_r at /builds/idf/crosstool-NG/.build/xtensa-esp-elf/src/newlib/newlib/libc/stdio/vfprintf.c:399
+--- 0x400dc472: _vfprintf_r at /builds/idf/crosstool-NG/.build/xtensa-esp-elf/src/newlib/newlib/libc/stdio/vfprintf.c:1774 (discriminator 1)
+--- 0x400d8f31: vprintf at /builds/idf/crosstool-NG/.build/xtensa-esp-elf/src/newlib/newlib/libc/stdio/vprintf.c:34
+--- 0x400e3915: esp_log_writev at C:/Espressif/frameworks/esp-idf-v5.4.1/components/log/src/os/log_write.c:34
+--- 0x4008b4a5: esp_log_write at C:/Espressif/frameworks/esp-idf-v5.4.1/components/log/src/os/log_write.c:44
+--- 0x400d668d: app_main at C:/Espressif/projects_esp_fayyaz/vibration_sensor_sw420/main/main.c:31 (discriminator 1)
+--- 0x400e3340: main_task at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/app_startup.c:208
+--- 0x40085fe9: vPortTaskWrapper at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x400d7c26: task_wdt_timeout_handling at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:434
+--- 0x400d7fe8: task_wdt_isr at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:507
+--- 0x40082e59: _xt_lowint1 at C:/Espressif/frameworks/esp-idf-v5.4.1/components/xtensa/xtensa_vectors.S:1240
+--- 0x400d4630: uart_ll_get_txfifo_len at C:/Espressif/frameworks/esp-idf-v5.4.1/components/hal/esp32/include/hal/uart_ll.h:428
+---  (inlined by) uart_tx_char at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_driver_uart/src/uart_vfs.c:190
+--- 0x400d4d31: uart_write at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_driver_uart/src/uart_vfs.c:238
+--- 0x400d5c0a: esp_vfs_write at C:/Espressif/frameworks/esp-idf-v5.4.1/components/vfs/vfs.c:945 (discriminator 4)
+--- 0x4000bd83: _write_r in ROM
+--- 0x4000182a: write in ROM
+--- 0x400d563d: console_write at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_vfs_console/vfs_console.c:71
+--- 0x400d5c0a: esp_vfs_write at C:/Espressif/frameworks/esp-idf-v5.4.1/components/vfs/vfs.c:945 (discriminator 4)
+--- 0x4000bd83: _write_r in ROM
+--- 0x4000117d: __swrite in ROM
+--- 0x400592fe: __sflush_r in ROM
+--- 0x4005937a: _fflush_r in ROM
+--- 0x400d8e89: __sfvwrite_r at /builds/idf/crosstool-NG/.build/xtensa-esp-elf/src/newlib/newlib/libc/stdio/fvwrite.c:251
+--- 0x400dca5b: __sprint_r at /builds/idf/crosstool-NG/.build/xtensa-esp-elf/src/newlib/newlib/libc/stdio/vfprintf.c:429
+---  (inlined by) __sprint_r at /builds/idf/crosstool-NG/.build/xtensa-esp-elf/src/newlib/newlib/libc/stdio/vfprintf.c:399
+--- 0x400dc472: _vfprintf_r at /builds/idf/crosstool-NG/.build/xtensa-esp-elf/src/newlib/newlib/libc/stdio/vfprintf.c:1774 (discriminator 1)
+--- 0x400d8f31: vprintf at /builds/idf/crosstool-NG/.build/xtensa-esp-elf/src/newlib/newlib/libc/stdio/vprintf.c:34
+--- 0x400e3915: esp_log_writev at C:/Espressif/frameworks/esp-idf-v5.4.1/components/log/src/os/log_write.c:34
+--- 0x4008b4a5: esp_log_write at C:/Espressif/frameworks/esp-idf-v5.4.1/components/log/src/os/log_write.c:44
+--- 0x400d668d: app_main at C:/Espressif/projects_esp_fayyaz/vibration_sensor_sw420/main/main.c:31 (discriminator 1)
+--- 0x400e3340: main_task at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/app_startup.c:208
+--- 0x40085fe9: vPortTaskWrapper at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x400d7c26: task_wdt_timeout_handling at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:434
+--- 0x400d7fe8: task_wdt_isr at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:507
+--- 0x40082e59: _xt_lowint1 at C:/Espressif/frameworks/esp-idf-v5.4.1/components/xtensa/xtensa_vectors.S:1240
+--- 0x4000c04d: _xtos_return_from_exc in ROM
+--- 0x400d66a6: app_main at C:/Espressif/projects_esp_fayyaz/vibration_sensor_sw420/main/main.c:35
+--- 0x400e3340: main_task at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/app_startup.c:208
+--- 0x40085fe9: vPortTaskWrapper at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x400d7c26: task_wdt_timeout_handling at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:434
+--- 0x400d7fe8: task_wdt_isr at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:507
+--- 0x40082e59: _xt_lowint1 at C:/Espressif/frameworks/esp-idf-v5.4.1/components/xtensa/xtensa_vectors.S:1240
+--- 0x400d4637: uart_ll_get_txfifo_len at C:/Espressif/frameworks/esp-idf-v5.4.1/components/hal/esp32/include/hal/uart_ll.h:428
+---  (inlined by) uart_tx_char at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_driver_uart/src/uart_vfs.c:190
+--- 0x400d4d4f: uart_write at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_driver_uart/src/uart_vfs.c:243
+--- 0x400d5c0a: esp_vfs_write at C:/Espressif/frameworks/esp-idf-v5.4.1/components/vfs/vfs.c:945 (discriminator 4)
+--- 0x4000bd83: _write_r in ROM
+--- 0x4000182a: write in ROM
+--- 0x400d563d: console_write at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_vfs_console/vfs_console.c:71
+--- 0x400d5c0a: esp_vfs_write at C:/Espressif/frameworks/esp-idf-v5.4.1/components/vfs/vfs.c:945 (discriminator 4)
+--- 0x4000bd83: _write_r in ROM
+--- 0x4000117d: __swrite in ROM
+--- 0x400592fe: __sflush_r in ROM
+--- 0x4005937a: _fflush_r in ROM
+--- 0x400d8e89: __sfvwrite_r at /builds/idf/crosstool-NG/.build/xtensa-esp-elf/src/newlib/newlib/libc/stdio/fvwrite.c:251
+--- 0x400dca5b: __sprint_r at /builds/idf/crosstool-NG/.build/xtensa-esp-elf/src/newlib/newlib/libc/stdio/vfprintf.c:429
+---  (inlined by) __sprint_r at /builds/idf/crosstool-NG/.build/xtensa-esp-elf/src/newlib/newlib/libc/stdio/vfprintf.c:399
+--- 0x400dc472: _vfprintf_r at /builds/idf/crosstool-NG/.build/xtensa-esp-elf/src/newlib/newlib/libc/stdio/vfprintf.c:1774 (discriminator 1)
+--- 0x400d8f31: vprintf at /builds/idf/crosstool-NG/.build/xtensa-esp-elf/src/newlib/newlib/libc/stdio/vprintf.c:34
+--- 0x400e3915: esp_log_writev at C:/Espressif/frameworks/esp-idf-v5.4.1/components/log/src/os/log_write.c:34
+--- 0x4008b4a5: esp_log_write at C:/Espressif/frameworks/esp-idf-v5.4.1/components/log/src/os/log_write.c:44
+--- 0x400d668d: app_main at C:/Espressif/projects_esp_fayyaz/vibration_sensor_sw420/main/main.c:31 (discriminator 1)
+--- 0x400e3340: main_task at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/app_startup.c:208
+--- 0x40085fe9: vPortTaskWrapper at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x400d7c26: task_wdt_timeout_handling at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:434
+--- 0x400d7fe8: task_wdt_isr at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:507
+--- 0x40082e59: _xt_lowint1 at C:/Espressif/frameworks/esp-idf-v5.4.1/components/xtensa/xtensa_vectors.S:1240
+--- 0x4000c04d: _xtos_return_from_exc in ROM
+--- 0x400d6696: app_main at C:/Espressif/projects_esp_fayyaz/vibration_sensor_sw420/main/main.c:32
+--- 0x400e3340: main_task at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/app_startup.c:208
+--- 0x40085fe9: vPortTaskWrapper at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x400d7c26: task_wdt_timeout_handling at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:434
+--- 0x400d7fe8: task_wdt_isr at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:507
+--- 0x40082e59: _xt_lowint1 at C:/Espressif/frameworks/esp-idf-v5.4.1/components/xtensa/xtensa_vectors.S:1240
+--- 0x400d4630: uart_ll_get_txfifo_len at C:/Espressif/frameworks/esp-idf-v5.4.1/components/hal/esp32/include/hal/uart_ll.h:428
+---  (inlined by) uart_tx_char at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_driver_uart/src/uart_vfs.c:190
+--- 0x400d4d4f: uart_write at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_driver_uart/src/uart_vfs.c:243
+--- 0x400d5c0a: esp_vfs_write at C:/Espressif/frameworks/esp-idf-v5.4.1/components/vfs/vfs.c:945 (discriminator 4)
+--- 0x4000bd83: _write_r in ROM
+--- 0x4000182a: write in ROM
+--- 0x400d563d: console_write at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_vfs_console/vfs_console.c:71
+--- 0x400d5c0a: esp_vfs_write at C:/Espressif/frameworks/esp-idf-v5.4.1/components/vfs/vfs.c:945 (discriminator 4)
+--- 0x4000bd83: _write_r in ROM
+--- 0x4000117d: __swrite in ROM
+--- 0x400592fe: __sflush_r in ROM
+--- 0x4005937a: _fflush_r in ROM
+--- 0x400d8e89: __sfvwrite_r at /builds/idf/crosstool-NG/.build/xtensa-esp-elf/src/newlib/newlib/libc/stdio/fvwrite.c:251
+--- 0x400dca5b: __sprint_r at /builds/idf/crosstool-NG/.build/xtensa-esp-elf/src/newlib/newlib/libc/stdio/vfprintf.c:429
+---  (inlined by) __sprint_r at /builds/idf/crosstool-NG/.build/xtensa-esp-elf/src/newlib/newlib/libc/stdio/vfprintf.c:399
+--- 0x400dc472: _vfprintf_r at /builds/idf/crosstool-NG/.build/xtensa-esp-elf/src/newlib/newlib/libc/stdio/vfprintf.c:1774 (discriminator 1)
+--- 0x400d8f31: vprintf at /builds/idf/crosstool-NG/.build/xtensa-esp-elf/src/newlib/newlib/libc/stdio/vprintf.c:34
+--- 0x400e3915: esp_log_writev at C:/Espressif/frameworks/esp-idf-v5.4.1/components/log/src/os/log_write.c:34
+--- 0x4008b4a5: esp_log_write at C:/Espressif/frameworks/esp-idf-v5.4.1/components/log/src/os/log_write.c:44
+--- 0x400d668d: app_main at C:/Espressif/projects_esp_fayyaz/vibration_sensor_sw420/main/main.c:31 (discriminator 1)
+--- 0x400e3340: main_task at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/app_startup.c:208
+--- 0x40085fe9: vPortTaskWrapper at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x400d7c26: task_wdt_timeout_handling at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:434
+--- 0x400d7fe8: task_wdt_isr at C:/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/task_wdt/task_wdt.c:507
+--- 0x40082e59: _xt_lowint1 at C:/Espressif/frameworks/esp-idf-v5.4.1/components/xtensa/xtensa_vectors.S:1240
+--- 0x40008541: ets_delay_us in ROM
+--- 0x400d6696: app_main at C:/Espressif/projects_esp_fayyaz/vibration_sensor_sw420/main/main.c:32
+--- 0x400e3340: main_task at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/app_startup.c:208
+--- 0x40085fe9: vPortTaskWrapper at C:/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+[0m
+[0;33m--- 0x400d7c26: task_wdt_timeo
